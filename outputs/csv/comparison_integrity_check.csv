@@ -1,0 +1,9 @@
+check_item,status,details
+same_feeder_topology,PASS,Radial 250 kVA LV feeder identical across cases
+same_household_loads,PASS,Uncontrollable residential baseline load identical
+same_commercial_loads,PASS,Commercial baseline demand identical
+same_critical_facility,PASS,Critical facility baseline demand identical
+same_pv_availability,PASS,Underlying solar generation potential identical
+same_ev_availability,PASS,"EV arrival, departure, and connection identical"
+same_initial_battery_soc,PASS,Initial community battery SOC identical at 50%
+only_der_schedule_changed,PASS,DER operating schedule is the sole independent variable

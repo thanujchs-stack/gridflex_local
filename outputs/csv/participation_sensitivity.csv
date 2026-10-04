@@ -1,0 +1,4 @@
+scenario,participation_rate,total_available_kw,total_selected_kw,total_unserved_kw,participating_der_count,peak_required_kw,constraint_duration_minutes,flexibility_utilization_pct,flexibility_satisfaction_pct
+100% Participation,1.0,1364.31,43.52,0.0,1,21.12,195,3.19,100.0
+70% Participation,0.7,1186.53,43.52,0.0,1,21.12,195,3.67,100.0
+40% Participation,0.4,1035.52,43.52,0.0,1,21.12,195,4.2,100.0

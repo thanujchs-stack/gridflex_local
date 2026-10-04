@@ -1,0 +1,3 @@
+case,peak_grid_import_kw,total_import_kwh,transformer_max_loading_pct,bess_energy_discharged_kwh,ev_energy_shifted_kwh,pv_curtailed_kwh,coordination_active
+CASE A: BASELINE / NO GRIDFLEX,87.98,78.3,37.05,0.0,0.0,0.0,False
+CASE B: GRIDFLEX OPTIMIZED,68.72,109.6,28.94,0.0,10.88,0.0,True

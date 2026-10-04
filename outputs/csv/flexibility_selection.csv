@@ -1,0 +1,12 @@
+timestamp,der_id,der_type,bus_id,line_section,direction,allocated_flex_kw,selection_rank,selection_reason,electrical_relevance_score
+2011-09-16 13:30:00,BESS_COMMUNITY_01,BESS,Bus_Main_LV,feeder_bess,DOWN,14.34,1,BESS absorptive charging mitigates reverse power flow,1.0
+2011-09-16 13:45:00,BESS_COMMUNITY_01,BESS,Bus_Main_LV,feeder_bess,DOWN,15.09,1,BESS absorptive charging mitigates reverse power flow,1.0
+2011-09-16 14:00:00,BESS_COMMUNITY_01,BESS,Bus_Main_LV,feeder_bess,DOWN,5.19,1,BESS absorptive charging mitigates reverse power flow,1.0
+2011-09-16 14:15:00,BESS_COMMUNITY_01,BESS,Bus_Main_LV,feeder_bess,DOWN,1.8,1,BESS absorptive charging mitigates reverse power flow,1.0
+2011-09-16 17:00:00,EV_001,EV,Bus_Main_LV,transformer,UP,7.4,1,Downstream EV load throttling relieves feeder trunk congestion,0.8
+2011-09-16 17:00:00,EV_002,EV,Bus_Main_LV,transformer,UP,7.4,2,Downstream EV load throttling relieves feeder trunk congestion,0.8
+2011-09-16 17:00:00,EV_005,EV,Bus_Main_LV,transformer,UP,5.05,3,Downstream EV load throttling relieves feeder trunk congestion,0.8
+2011-09-16 17:15:00,EV_001,EV,Bus_Main_LV,transformer,UP,7.4,1,Downstream EV load throttling relieves feeder trunk congestion,0.8
+2011-09-16 17:15:00,EV_002,EV,Bus_Main_LV,transformer,UP,7.4,2,Downstream EV load throttling relieves feeder trunk congestion,0.8
+2011-09-16 17:15:00,EV_003,EV,Bus_Main_LV,transformer,UP,7.4,3,Downstream EV load throttling relieves feeder trunk congestion,0.8
+2011-09-16 17:15:00,EV_005,EV,Bus_Main_LV,transformer,UP,0.78,4,Downstream EV load throttling relieves feeder trunk congestion,0.8

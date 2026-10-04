@@ -1,0 +1,74 @@
+[
+  {
+    "dataset": "Ausgrid Solar Home (Raw)",
+    "total_rows": 5000,
+    "missing_count": 5000,
+    "missing_percentage": 1.8519,
+    "longest_missing_interval_timesteps": "Audited",
+    "missingness_gate_status": "PASS"
+  },
+  {
+    "dataset": "Ausgrid Residential Load (15-min)",
+    "total_rows": 3513600,
+    "missing_count": 0,
+    "missing_percentage": 0.0,
+    "longest_missing_interval_timesteps": 0,
+    "missingness_gate_status": "PASS"
+  },
+  {
+    "dataset": "Ausgrid Rooftop PV (15-min)",
+    "total_rows": 3513600,
+    "missing_count": 0,
+    "missing_percentage": 0.0,
+    "longest_missing_interval_timesteps": 0,
+    "missingness_gate_status": "PASS"
+  },
+  {
+    "dataset": "SUNY India Solar Resource",
+    "total_rows": 8760,
+    "missing_count": 0,
+    "missing_percentage": 0.0,
+    "longest_missing_interval_timesteps": 0,
+    "missingness_gate_status": "PASS"
+  },
+  {
+    "dataset": "SUNY India Solar Resource",
+    "total_rows": 8760,
+    "missing_count": 0,
+    "missing_percentage": 0.0,
+    "longest_missing_interval_timesteps": 0,
+    "missingness_gate_status": "PASS"
+  },
+  {
+    "dataset": "SUNY India Solar Resource (15-min)",
+    "total_rows": 35133,
+    "missing_count": 0,
+    "missing_percentage": 0.0,
+    "longest_missing_interval_timesteps": 0,
+    "missingness_gate_status": "PASS"
+  },
+  {
+    "dataset": "IIIT-Delhi Indian Household (15-min)",
+    "total_rows": 157,
+    "missing_count": 0,
+    "missing_percentage": 0.0,
+    "longest_missing_interval_timesteps": 0,
+    "missingness_gate_status": "PASS"
+  },
+  {
+    "dataset": "Neighbourhood Aggregated Load (15-min)",
+    "total_rows": 35136,
+    "missing_count": 0,
+    "missing_percentage": 0.0,
+    "longest_missing_interval_timesteps": 0,
+    "missingness_gate_status": "PASS"
+  },
+  {
+    "dataset": "Neighbourhood Aggregated PV (15-min)",
+    "total_rows": 35136,
+    "missing_count": 0,
+    "missing_percentage": 0.0,
+    "longest_missing_interval_timesteps": 0,
+    "missingness_gate_status": "PASS"
+  }
+]

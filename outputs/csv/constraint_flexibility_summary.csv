@@ -1,0 +1,9 @@
+timestamp,constraint_id,constraint_type,constraint_location,required_flexibility_kw,total_available_flexibility_kw,locational_relevant_flexibility_kw,selected_flexibility_kw,unserved_flexibility_kw,constraint_status,locational_limitation
+2011-09-16 13:45:00,C_VOLT_RISE_1345,VOLTAGE_RISE,Bus_Residential_3,35.0,185.09,111.21,35.0,0.0,RESOLVED,Locational flexibility is sufficient to resolve constraint.
+2011-09-16 13:45:00,C_REV_FLOW_1345,REVERSE_POWER_FLOW,Transformer_Substation,113.6,185.09,177.03,113.6,0.0,RESOLVED,Locational flexibility is sufficient to resolve constraint.
+2011-09-16 13:45:00,C_LINE_REV_1345,LINE_OVERLOAD,Line_Trunk_1,40.0,29.0,4.0,4.0,36.0,DEFICIT,"Available flexibility (29.0 kW) exists, but locationally relevant flexibility (4.0 kW) at Line_Trunk_1 is insufficient."
+2011-09-16 15:45:00,C_CLOUD_DROP_1545,TRANSFORMER_OVERLOAD,Transformer_Substation,25.65,25.0,25.0,25.0,0.65,DEFICIT,"Available flexibility (25.0 kW) exists, but locationally relevant flexibility (25.0 kW) at Transformer_Substation is insufficient."
+2011-09-16 17:00:00,C_VOLT_DROP_1700,VOLTAGE_DROP,Bus_Residential_3,40.0,121.2,34.92,34.92,5.08,DEFICIT,"Available flexibility (121.2 kW) exists, but locationally relevant flexibility (34.9 kW) at Bus_Residential_3 is insufficient."
+2011-09-16 17:15:00,C_VOLT_DROP_1715,VOLTAGE_DROP,Bus_Residential_3,45.0,136.0,40.1,40.1,4.9,DEFICIT,"Available flexibility (136.0 kW) exists, but locationally relevant flexibility (40.1 kW) at Bus_Residential_3 is insufficient."
+2011-09-16 17:00:00,C_LINE_CONG_1700,LINE_OVERLOAD,Line_Trunk_1,20.0,121.2,96.2,20.0,0.0,RESOLVED,Locational flexibility is sufficient to resolve constraint.
+2011-09-16 17:15:00,C_LINE_CONG_1715,LINE_OVERLOAD,Line_Trunk_1,25.0,136.0,111.0,25.0,0.0,RESOLVED,Locational flexibility is sufficient to resolve constraint.

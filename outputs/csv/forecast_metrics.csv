@@ -1,0 +1,53 @@
+target,model,horizon_minutes,period_scope,MAE,RMSE,sMAPE,sample_count
+neighbourhood_load,HistGradientBoosting,all (15-240m),all,11.2628,13.918,15.48,1200
+neighbourhood_load,HistGradientBoosting,15,all,6.7984,8.3342,9.96,75
+neighbourhood_load,HistGradientBoosting,60,all,8.5551,10.6221,12.17,75
+neighbourhood_load,HistGradientBoosting,120,all,11.1573,14.0077,15.12,75
+neighbourhood_load,HistGradientBoosting,240,all,12.6987,14.6133,17.98,75
+neighbourhood_load,Persistence,all (15-240m),all,12.1999,13.0081,14.64,15
+neighbourhood_load,Persistence,15,all,9.534,9.534,10.11,1
+neighbourhood_load,Persistence,60,all,11.968,11.968,14.32,1
+neighbourhood_load,Persistence,120,all,9.36,9.36,11.03,1
+neighbourhood_load,MovingAverage,all (15-240m),all,12.1999,13.0081,14.64,15
+neighbourhood_load,MovingAverage,15,all,9.534,9.534,10.11,1
+neighbourhood_load,MovingAverage,60,all,11.968,11.968,14.32,1
+neighbourhood_load,MovingAverage,120,all,9.36,9.36,11.03,1
+neighbourhood_pv,HistGradientBoosting,all (15-240m),all,9.9983,18.8512,117.84,1200
+neighbourhood_pv,HistGradientBoosting,15,all,1.2959,2.7892,105.0,75
+neighbourhood_pv,HistGradientBoosting,60,all,3.5831,6.6235,107.92,75
+neighbourhood_pv,HistGradientBoosting,120,all,10.2238,16.2501,120.92,75
+neighbourhood_pv,HistGradientBoosting,240,all,14.3573,26.0538,141.27,75
+neighbourhood_pv,HistGradientBoosting,all (15-240m),daylight,18.6739,25.7728,74.49,642
+neighbourhood_pv,HistGradientBoosting,15,daylight,2.4136,3.8192,51.89,40
+neighbourhood_pv,HistGradientBoosting,60,daylight,5.2602,8.0322,68.52,51
+neighbourhood_pv,HistGradientBoosting,120,daylight,19.6436,22.5348,63.32,39
+neighbourhood_pv,HistGradientBoosting,240,daylight,28.3205,36.6024,105.16,38
+neighbourhood_pv,Persistence,all (15-240m),all,19.8785,21.1343,19.55,15
+neighbourhood_pv,Persistence,15,all,11.766,11.766,11.69,1
+neighbourhood_pv,Persistence,60,all,25.546,25.546,23.75,1
+neighbourhood_pv,Persistence,120,all,25.858,25.858,24.0,1
+neighbourhood_pv,Persistence,all (15-240m),daylight,19.8785,21.1343,19.55,15
+neighbourhood_pv,Persistence,15,daylight,11.766,11.766,11.69,1
+neighbourhood_pv,Persistence,60,daylight,25.546,25.546,23.75,1
+neighbourhood_pv,Persistence,120,daylight,25.858,25.858,24.0,1
+neighbourhood_pv,MovingAverage,all (15-240m),all,19.8785,21.1343,19.55,15
+neighbourhood_pv,MovingAverage,15,all,11.766,11.766,11.69,1
+neighbourhood_pv,MovingAverage,60,all,25.546,25.546,23.75,1
+neighbourhood_pv,MovingAverage,120,all,25.858,25.858,24.0,1
+neighbourhood_pv,MovingAverage,all (15-240m),daylight,19.8785,21.1343,19.55,15
+neighbourhood_pv,MovingAverage,15,daylight,11.766,11.766,11.69,1
+neighbourhood_pv,MovingAverage,60,daylight,25.546,25.546,23.75,1
+neighbourhood_pv,MovingAverage,120,daylight,25.858,25.858,24.0,1
+neighbourhood_net_load,HistGradientBoosting,all (15-240m),all,20.217,27.2508,48.8,1200
+neighbourhood_net_load,HistGradientBoosting,15,all,7.3639,8.6254,16.68,75
+neighbourhood_net_load,HistGradientBoosting,60,all,10.8092,12.4327,22.22,75
+neighbourhood_net_load,HistGradientBoosting,120,all,20.349,25.1254,57.55,75
+neighbourhood_net_load,HistGradientBoosting,240,all,26.755,35.6495,74.7,75
+neighbourhood_net_load,Persistence,all (15-240m),all,24.1293,27.3586,132.31,15
+neighbourhood_net_load,Persistence,15,all,2.232,2.232,35.12,1
+neighbourhood_net_load,Persistence,60,all,37.514,37.514,156.33,1
+neighbourhood_net_load,Persistence,120,all,35.218,35.218,154.13,1
+neighbourhood_net_load,MovingAverage,all (15-240m),all,24.1293,27.3586,132.31,15
+neighbourhood_net_load,MovingAverage,15,all,2.232,2.232,35.12,1
+neighbourhood_net_load,MovingAverage,60,all,37.514,37.514,156.33,1
+neighbourhood_net_load,MovingAverage,120,all,35.218,35.218,154.13,1

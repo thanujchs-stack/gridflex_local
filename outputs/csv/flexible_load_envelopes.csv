@@ -1,0 +1,49 @@
+timestamp,der_id,baseline_kw,minimum_kw,maximum_kw,dynamic_min_kw,dynamic_max_kw,availability_window,risk_state,constraint_type,reason
+2011-09-16 13:30:00,FL001,3.5,0.5,0.0,0.0,0.0,05:00 - 08:30,NORMAL,NONE,Flexible load outside scheduled operating window
+2011-09-16 13:30:00,FL002,10.0,0.5,10.0,0.5,10.0,09:00 - 17:30,NORMAL,NONE,Normal conditions: full operating range available
+2011-09-16 13:30:00,FL003,4.0,0.5,4.0,0.5,4.0,11:00 - 14:30,NORMAL,NONE,Normal conditions: full operating range available
+2011-09-16 13:45:00,FL001,3.5,0.5,0.0,0.0,0.0,05:00 - 08:30,NORMAL,NONE,Flexible load outside scheduled operating window
+2011-09-16 13:45:00,FL002,10.0,0.5,10.0,0.5,10.0,09:00 - 17:30,NORMAL,NONE,Normal conditions: full operating range available
+2011-09-16 13:45:00,FL003,4.0,0.5,4.0,0.5,4.0,11:00 - 14:30,NORMAL,NONE,Normal conditions: full operating range available
+2011-09-16 14:00:00,FL001,3.5,0.5,0.0,0.0,0.0,05:00 - 08:30,NORMAL,NONE,Flexible load outside scheduled operating window
+2011-09-16 14:00:00,FL002,10.0,0.5,10.0,0.5,10.0,09:00 - 17:30,NORMAL,NONE,Normal conditions: full operating range available
+2011-09-16 14:00:00,FL003,4.0,0.5,4.0,0.5,4.0,11:00 - 14:30,NORMAL,NONE,Normal conditions: full operating range available
+2011-09-16 14:15:00,FL001,3.5,0.5,0.0,0.0,0.0,05:00 - 08:30,WATCH,NONE,Flexible load outside scheduled operating window
+2011-09-16 14:15:00,FL002,10.0,0.5,10.0,0.5,10.0,09:00 - 17:30,WATCH,NONE,Normal scheduled operation
+2011-09-16 14:15:00,FL003,4.0,0.5,4.0,0.5,4.0,11:00 - 14:30,WATCH,NONE,Normal scheduled operation
+2011-09-16 14:30:00,FL001,3.5,0.5,0.0,0.0,0.0,05:00 - 08:30,WATCH,NONE,Flexible load outside scheduled operating window
+2011-09-16 14:30:00,FL002,10.0,0.5,10.0,0.5,10.0,09:00 - 17:30,WATCH,NONE,Normal scheduled operation
+2011-09-16 14:30:00,FL003,4.0,0.5,0.0,0.0,0.0,11:00 - 14:30,WATCH,NONE,Flexible load outside scheduled operating window
+2011-09-16 14:45:00,FL001,3.5,0.5,0.0,0.0,0.0,05:00 - 08:30,WATCH,NONE,Flexible load outside scheduled operating window
+2011-09-16 14:45:00,FL002,10.0,0.5,10.0,0.5,10.0,09:00 - 17:30,WATCH,NONE,Normal scheduled operation
+2011-09-16 14:45:00,FL003,4.0,0.5,0.0,0.0,0.0,11:00 - 14:30,WATCH,NONE,Flexible load outside scheduled operating window
+2011-09-16 15:00:00,FL001,3.5,0.5,0.0,0.0,0.0,05:00 - 08:30,WATCH,NONE,Flexible load outside scheduled operating window
+2011-09-16 15:00:00,FL002,10.0,0.5,10.0,0.5,10.0,09:00 - 17:30,WATCH,NONE,Normal scheduled operation
+2011-09-16 15:00:00,FL003,4.0,0.5,0.0,0.0,0.0,11:00 - 14:30,WATCH,NONE,Flexible load outside scheduled operating window
+2011-09-16 15:15:00,FL001,3.5,0.5,0.0,0.0,0.0,05:00 - 08:30,WATCH,NONE,Flexible load outside scheduled operating window
+2011-09-16 15:15:00,FL002,10.0,0.5,10.0,0.5,10.0,09:00 - 17:30,WATCH,NONE,Normal scheduled operation
+2011-09-16 15:15:00,FL003,4.0,0.5,0.0,0.0,0.0,11:00 - 14:30,WATCH,NONE,Flexible load outside scheduled operating window
+2011-09-16 15:30:00,FL001,3.5,0.5,0.0,0.0,0.0,05:00 - 08:30,WATCH,NONE,Flexible load outside scheduled operating window
+2011-09-16 15:30:00,FL002,10.0,0.5,10.0,0.5,10.0,09:00 - 17:30,WATCH,NONE,Normal scheduled operation
+2011-09-16 15:30:00,FL003,4.0,0.5,0.0,0.0,0.0,11:00 - 14:30,WATCH,NONE,Flexible load outside scheduled operating window
+2011-09-16 15:45:00,FL001,3.5,0.5,0.0,0.0,0.0,05:00 - 08:30,WATCH,NONE,Flexible load outside scheduled operating window
+2011-09-16 15:45:00,FL002,10.0,0.5,10.0,0.5,10.0,09:00 - 17:30,WATCH,NONE,Normal scheduled operation
+2011-09-16 15:45:00,FL003,4.0,0.5,0.0,0.0,0.0,11:00 - 14:30,WATCH,NONE,Flexible load outside scheduled operating window
+2011-09-16 16:00:00,FL001,3.5,0.5,0.0,0.0,0.0,05:00 - 08:30,WATCH,NONE,Flexible load outside scheduled operating window
+2011-09-16 16:00:00,FL002,10.0,0.5,10.0,0.5,10.0,09:00 - 17:30,WATCH,NONE,Normal scheduled operation
+2011-09-16 16:00:00,FL003,4.0,0.5,0.0,0.0,0.0,11:00 - 14:30,WATCH,NONE,Flexible load outside scheduled operating window
+2011-09-16 16:15:00,FL001,3.5,0.5,0.0,0.0,0.0,05:00 - 08:30,WATCH,NONE,Flexible load outside scheduled operating window
+2011-09-16 16:15:00,FL002,10.0,0.5,10.0,0.5,10.0,09:00 - 17:30,WATCH,NONE,Normal scheduled operation
+2011-09-16 16:15:00,FL003,4.0,0.5,0.0,0.0,0.0,11:00 - 14:30,WATCH,NONE,Flexible load outside scheduled operating window
+2011-09-16 16:30:00,FL001,3.5,0.5,0.0,0.0,0.0,05:00 - 08:30,WATCH,NONE,Flexible load outside scheduled operating window
+2011-09-16 16:30:00,FL002,10.0,0.5,10.0,0.5,10.0,09:00 - 17:30,WATCH,NONE,Normal scheduled operation
+2011-09-16 16:30:00,FL003,4.0,0.5,0.0,0.0,0.0,11:00 - 14:30,WATCH,NONE,Flexible load outside scheduled operating window
+2011-09-16 16:45:00,FL001,3.5,0.5,0.0,0.0,0.0,05:00 - 08:30,WATCH,NONE,Flexible load outside scheduled operating window
+2011-09-16 16:45:00,FL002,10.0,0.5,10.0,0.5,10.0,09:00 - 17:30,WATCH,NONE,Normal scheduled operation
+2011-09-16 16:45:00,FL003,4.0,0.5,0.0,0.0,0.0,11:00 - 14:30,WATCH,NONE,Flexible load outside scheduled operating window
+2011-09-16 17:00:00,FL001,3.5,0.5,0.0,0.0,0.0,05:00 - 08:30,CONSTRAINED,VOLTAGE_DROP,Flexible load outside scheduled operating window
+2011-09-16 17:00:00,FL002,10.0,0.5,10.0,0.5,10.0,09:00 - 17:30,CONSTRAINED,VOLTAGE_DROP,Flexible load operating within baseline window
+2011-09-16 17:00:00,FL003,4.0,0.5,0.0,0.0,0.0,11:00 - 14:30,CONSTRAINED,VOLTAGE_DROP,Flexible load outside scheduled operating window
+2011-09-16 17:15:00,FL001,3.5,0.5,0.0,0.0,0.0,05:00 - 08:30,CONSTRAINED,VOLTAGE_DROP,Flexible load outside scheduled operating window
+2011-09-16 17:15:00,FL002,10.0,0.5,10.0,0.5,10.0,09:00 - 17:30,CONSTRAINED,VOLTAGE_DROP,Flexible load operating within baseline window
+2011-09-16 17:15:00,FL003,4.0,0.5,0.0,0.0,0.0,11:00 - 14:30,CONSTRAINED,VOLTAGE_DROP,Flexible load outside scheduled operating window

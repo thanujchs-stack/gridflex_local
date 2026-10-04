@@ -1,0 +1,4 @@
+participation_rate,objective_value,peak_grid_import_kw,total_grid_import_kwh,battery_discharge_kwh,ev_shifted_kwh,pv_curtailed_kwh,active_ders,solver_status
+100%,69.66,68.72,109.6,0.0,10.88,0.0,6,OPTIMAL
+70%,69.66,68.72,109.6,0.0,10.88,0.0,7,OPTIMAL
+40%,69.66,68.72,109.6,0.0,10.88,0.0,4,OPTIMAL

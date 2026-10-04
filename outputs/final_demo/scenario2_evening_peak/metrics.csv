@@ -1,0 +1,33 @@
+Category,Metric,Baseline,GridFlex,Change
+Voltage,Minimum Bus Voltage (p.u.),0.9236,0.9321,+0.0085
+Voltage,Maximum Bus Voltage (p.u.),1.0987,1.0987,+0.0000
+Voltage,Voltage Violation Duration (min),0,0,+0
+Power Flow,Peak Reverse Power Flow (kW),138.61,138.61,+0.00
+Power Flow,Reverse Power Duration (min),150,150,+0
+Power Flow,Peak Grid Import (kW),126.23,103.35,-22.88
+Power Flow,Peak Grid Export (kW),138.61,138.61,+0.00
+Thermal,Peak Transformer Loading (%),56.36%,56.36%,+0.00%
+Thermal,Peak Trunk Line Loading (%),95.37%,95.37%,+0.00%
+Thermal,Overload Duration (min),45,45,+0
+Flexibility,Technical Flexibility (kW),0.00,197.80,+197.80
+Flexibility,Available Flexibility (kW),0.00,136.00,+136.00
+Flexibility,Locationally Relevant Flexibility (kW),0.00,40.10,+40.10
+Flexibility,Selectable Flexibility (kW),0.00,40.10,+40.10
+Flexibility,Dispatched Flexibility (kW),0.00,40.10,+40.10
+Flexibility,Unserved Flexibility (kW),4.90,4.90,0.00
+Renewable,Peak PV Generation (kW),215.16,215.16,+0.00
+Renewable,Peak PV Curtailed (kW),0.00,0.00,+0.00
+Renewable,Peak PV Curtailment (%),0.0%,0.0%,+0.0%
+Battery,Initial SOC (%),50.0%,50.0%,+0.0%
+Battery,Minimum SOC (%),50.0%,50.0%,+0.0%
+Battery,Maximum SOC (%),50.0%,50.0%,+0.0%
+Battery,Final SOC (%),50.0%,50.0%,+0.0%
+EV,Baseline Charging Energy (kWh),0.0,0.0,0.0
+EV,Shifted Energy (kWh),0.0,10.9,+10.9
+EV,Delivered Energy (kWh),0.0,0.0,+0.0
+EV,Departure Compliance (%),100.0%,100.0%,0.0%
+Forecast,Net Load Forecast Mean (kW),19.57,19.57,0.00
+Forecast,Peak Forecast Uncertainty (kW),0.00,51.29,+51.29
+Forecast,Required Uncertainty Reserve (kW),0.00,25.65,+25.65
+Forecast,Available Dynamic Reserve (kW),0.00,25.00,+25.00
+Forecast,Reserve Deficit (kW),0.00,0.65,+0.65

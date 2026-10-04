@@ -1,0 +1,10 @@
+dataset,rows,columns,start_time,end_time,missing_count,missing_percentage,duplicate_count,negative_values,out_of_range_values,selected_households,temporal_resolution,timezone,status
+Ausgrid Solar Home (Raw),5000,54,1/01/2012,9/12/2011,5000,1.8519,0,0,0,5,30min,UTC+10:00,PASS
+Ausgrid Residential Load (15-min),3513600,3,2011-07-01 00:00:00,2012-06-30 23:45:00,0,0.0,0,0,0,100,15min,Normalized Local,PASS
+Ausgrid Rooftop PV (15-min),3513600,3,2011-07-01 00:00:00,2012-06-30 23:45:00,0,0.0,0,0,0,100,15min,Normalized Local,PASS
+SUNY India Solar Resource,8760,9,2011-01-01 00:00:00,2011-12-31 23:00:00,0,0.0,0,0,0,N/A (Weather/Irradiance),60min,UTC+05:30,PASS
+SUNY India Solar Resource,8760,9,2012-01-01 00:00:00,2012-12-31 23:00:00,0,0.0,0,0,0,N/A (Weather/Irradiance),60min,UTC+05:30,PASS
+SUNY India Solar Resource (15-min),35133,5,2011-07-01 00:00:00,2012-06-30 23:00:00,0,0.0,0,0,0,Aggregated,15min,Normalized Local,PASS
+IIIT-Delhi Indian Household (15-min),157,3,2013-08-04 05:30:00,2013-08-05 21:00:00,0,0.0,0,0,0,1,15min,Normalized Local,PASS
+Neighbourhood Aggregated Load (15-min),35136,4,2011-07-01 00:00:00,2012-06-30 23:45:00,0,0.0,0,0,0,Aggregated,15min,Normalized Local,PASS
+Neighbourhood Aggregated PV (15-min),35136,4,2011-07-01 00:00:00,2012-06-30 23:45:00,0,0.0,0,0,0,Aggregated,15min,Normalized Local,PASS

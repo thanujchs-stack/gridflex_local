@@ -1,0 +1,2 @@
+total_registered_ders,activated_der_count,der_activation_ratio_pct,total_allocated_energy_kwh,overall_energy_gini_coefficient,active_der_gini_coefficient,top_20pct_active_der_energy_share_pct,max_der_energy_kwh,mean_active_der_energy_kwh,shift_energy_conserved
+84,1,1.19,10.88,0.988,0.0,100.0,10.88,10.88,True

@@ -1,0 +1,6 @@
+scenario,baseline_all_converged,gridflex_all_converged,max_power_balance_error_kw,power_balance_pass
+SCENARIO_1_HIGH_PV_LOW_DEMAND,True,True,1.6e-05,True
+SCENARIO_2_EV_PEAK_CONGESTION,True,True,4e-06,True
+SCENARIO_3_CLOUD_INTERMITTENCY,True,True,4e-06,True
+SCENARIO_4_LOW_PARTICIPATION,True,True,4e-06,True
+SCENARIO_5_COMBINED_DIURNAL_STRESS,True,True,1.3e-05,True

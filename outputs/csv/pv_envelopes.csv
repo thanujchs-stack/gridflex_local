@@ -1,0 +1,961 @@
+timestamp,der_id,available_pv_kw,normal_export_limit_kw,dynamic_export_limit_kw,minimum_export_limit_kw,maximum_export_limit_kw,curtailment_allowed,curtailment_applied_kw,uncertainty_margin_kw,risk_state,constraint_type,reason
+2011-09-16 13:30:00,PV_H002,3.87,3.91,3.91,0.0,3.91,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H003,3.12,3.15,3.15,0.0,3.15,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H005,3.14,3.17,3.17,0.0,3.17,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H006,1.98,2.0,2.0,0.0,2.0,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H007,3.89,3.93,3.93,0.0,3.93,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H010,2.99,3.02,3.02,0.0,3.02,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H016,2.08,2.1,2.1,0.0,2.1,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H017,3.58,3.62,3.62,0.0,3.62,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H018,2.3,2.33,2.33,0.0,2.33,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H021,5.33,5.39,5.39,0.0,5.39,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H024,1.98,2.0,2.0,0.0,2.0,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H025,3.77,3.81,3.81,0.0,3.81,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H026,3.63,3.67,3.67,0.0,3.67,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H027,3.5,3.54,3.54,0.0,3.54,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H032,3.17,3.2,3.2,0.0,3.2,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H033,2.39,2.42,2.42,0.0,2.42,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H034,3.92,3.96,3.96,0.0,3.96,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H035,2.95,2.98,2.98,0.0,2.98,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H036,3.45,3.49,3.49,0.0,3.49,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H037,3.32,3.36,3.36,0.0,3.36,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H040,4.06,4.1,4.1,0.0,4.1,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H042,2.52,2.55,2.55,0.0,2.55,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H044,3.3,3.34,3.34,0.0,3.34,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H046,4.22,4.27,4.27,0.0,4.27,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H048,3.08,3.11,3.11,0.0,3.11,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H049,2.74,2.77,2.77,0.0,2.77,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H050,3.86,3.9,3.9,0.0,3.9,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H053,4.49,4.54,4.54,0.0,4.54,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H055,2.74,2.77,2.77,0.0,2.77,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H057,4.29,4.34,4.34,0.0,4.34,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H058,2.97,3.0,3.0,0.0,3.0,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H060,5.51,5.57,5.57,0.0,5.57,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H061,3.04,3.07,3.07,0.0,3.07,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H062,5.94,6.0,6.0,0.0,6.0,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H063,3.98,4.02,4.02,0.0,4.02,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H066,4.38,4.43,4.43,0.0,4.43,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H067,2.6,2.63,2.63,0.0,2.63,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H069,3.54,3.58,3.58,0.0,3.58,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H071,4.52,4.57,4.57,0.0,4.57,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H072,5.11,5.17,5.17,0.0,5.17,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H073,3.67,3.71,3.71,0.0,3.71,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H074,4.06,4.1,4.1,0.0,4.1,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H076,4.64,4.69,4.69,0.0,4.69,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H077,4.95,5.0,5.0,0.0,5.0,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H078,2.72,2.75,2.75,0.0,2.75,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H079,2.82,2.85,2.85,0.0,2.85,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H080,4.1,4.14,4.14,0.0,4.14,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H081,4.1,4.14,4.14,0.0,4.14,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H082,2.71,2.74,2.74,0.0,2.74,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H083,3.03,3.06,3.06,0.0,3.06,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H085,3.78,3.82,3.82,0.0,3.82,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H087,4.37,4.42,4.42,0.0,4.42,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H088,2.22,2.24,2.24,0.0,2.24,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H090,4.28,4.33,4.33,0.0,4.33,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H093,5.25,5.31,5.31,0.0,5.31,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H094,2.73,2.76,2.76,0.0,2.76,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H095,2.63,2.66,2.66,0.0,2.66,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H096,4.22,4.27,4.27,0.0,4.27,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H098,3.13,3.16,3.16,0.0,3.16,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:30:00,PV_H099,3.07,3.1,3.1,0.0,3.1,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H002,3.89,3.91,3.91,0.0,3.91,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H003,3.14,3.15,3.15,0.0,3.15,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H005,3.16,3.17,3.17,0.0,3.17,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H006,1.99,2.0,2.0,0.0,2.0,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H007,3.91,3.93,3.93,0.0,3.93,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H010,3.01,3.02,3.02,0.0,3.02,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H016,2.09,2.1,2.1,0.0,2.1,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H017,3.61,3.62,3.62,0.0,3.62,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H018,2.32,2.33,2.33,0.0,2.33,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H021,5.37,5.39,5.39,0.0,5.39,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H024,1.99,2.0,2.0,0.0,2.0,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H025,3.79,3.81,3.81,0.0,3.81,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H026,3.66,3.67,3.67,0.0,3.67,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H027,3.53,3.54,3.54,0.0,3.54,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H032,3.19,3.2,3.2,0.0,3.2,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H033,2.41,2.42,2.42,0.0,2.42,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H034,3.94,3.96,3.96,0.0,3.96,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H035,2.97,2.98,2.98,0.0,2.98,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H036,3.48,3.49,3.49,0.0,3.49,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H037,3.35,3.36,3.36,0.0,3.36,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H040,4.08,4.1,4.1,0.0,4.1,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H042,2.54,2.55,2.55,0.0,2.55,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H044,3.33,3.34,3.34,0.0,3.34,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H046,4.25,4.27,4.27,0.0,4.27,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H048,3.1,3.11,3.11,0.0,3.11,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H049,2.76,2.77,2.77,0.0,2.77,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H050,3.88,3.9,3.9,0.0,3.9,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H053,4.52,4.54,4.54,0.0,4.54,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H055,2.76,2.77,2.77,0.0,2.77,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H057,4.32,4.34,4.34,0.0,4.34,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H058,2.99,3.0,3.0,0.0,3.0,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H060,5.55,5.57,5.57,0.0,5.57,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H061,3.06,3.07,3.07,0.0,3.07,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H062,5.98,6.0,6.0,0.0,6.0,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H063,4.0,4.02,4.02,0.0,4.02,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H066,4.41,4.43,4.43,0.0,4.43,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H067,2.62,2.63,2.63,0.0,2.63,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H069,3.57,3.58,3.58,0.0,3.58,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H071,4.55,4.57,4.57,0.0,4.57,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H072,5.15,5.17,5.17,0.0,5.17,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H073,3.69,3.71,3.71,0.0,3.71,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H074,4.08,4.1,4.1,0.0,4.1,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H076,4.67,4.69,4.69,0.0,4.69,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H077,4.98,5.0,5.0,0.0,5.0,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H078,2.74,2.75,2.75,0.0,2.75,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H079,2.84,2.85,2.85,0.0,2.85,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H080,4.12,4.14,4.14,0.0,4.14,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H081,4.12,4.14,4.14,0.0,4.14,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H082,2.73,2.74,2.74,0.0,2.74,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H083,3.05,3.06,3.06,0.0,3.06,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H085,3.8,3.82,3.82,0.0,3.82,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H087,4.4,4.42,4.42,0.0,4.42,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H088,2.23,2.24,2.24,0.0,2.24,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H090,4.31,4.33,4.33,0.0,4.33,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H093,5.29,5.31,5.31,0.0,5.31,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H094,2.75,2.76,2.76,0.0,2.76,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H095,2.65,2.66,2.66,0.0,2.66,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H096,4.25,4.27,4.27,0.0,4.27,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H098,3.15,3.16,3.16,0.0,3.16,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 13:45:00,PV_H099,3.09,3.1,3.1,0.0,3.1,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H002,3.56,3.91,3.91,0.0,3.91,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H003,2.86,3.15,3.15,0.0,3.15,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H005,2.88,3.17,3.17,0.0,3.17,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H006,1.82,2.0,2.0,0.0,2.0,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H007,3.57,3.93,3.93,0.0,3.93,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H010,2.75,3.02,3.02,0.0,3.02,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H016,1.91,2.1,2.1,0.0,2.1,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H017,3.29,3.62,3.62,0.0,3.62,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H018,2.12,2.33,2.33,0.0,2.33,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H021,4.9,5.39,5.39,0.0,5.39,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H024,1.82,2.0,2.0,0.0,2.0,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H025,3.47,3.81,3.81,0.0,3.81,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H026,3.34,3.67,3.67,0.0,3.67,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H027,3.22,3.54,3.54,0.0,3.54,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H032,2.91,3.2,3.2,0.0,3.2,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H033,2.2,2.42,2.42,0.0,2.42,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H034,3.6,3.96,3.96,0.0,3.96,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H035,2.71,2.98,2.98,0.0,2.98,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H036,3.17,3.49,3.49,0.0,3.49,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H037,3.06,3.36,3.36,0.0,3.36,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H040,3.73,4.1,4.1,0.0,4.1,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H042,2.32,2.55,2.55,0.0,2.55,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H044,3.04,3.34,3.34,0.0,3.34,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H046,3.88,4.27,4.27,0.0,4.27,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H048,2.83,3.11,3.11,0.0,3.11,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H049,2.52,2.77,2.77,0.0,2.77,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H050,3.55,3.9,3.9,0.0,3.9,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H053,4.13,4.54,4.54,0.0,4.54,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H055,2.52,2.77,2.77,0.0,2.77,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H057,3.95,4.34,4.34,0.0,4.34,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H058,2.73,3.0,3.0,0.0,3.0,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H060,5.07,5.57,5.57,0.0,5.57,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H061,2.79,3.07,3.07,0.0,3.07,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H062,5.46,6.0,6.0,0.0,6.0,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H063,3.66,4.02,4.02,0.0,4.02,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H066,4.03,4.43,4.43,0.0,4.43,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H067,2.39,2.63,2.63,0.0,2.63,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H069,3.26,3.58,3.58,0.0,3.58,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H071,4.16,4.57,4.57,0.0,4.57,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H072,4.7,5.17,5.17,0.0,5.17,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H073,3.37,3.71,3.71,0.0,3.71,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H074,3.73,4.1,4.1,0.0,4.1,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H076,4.27,4.69,4.69,0.0,4.69,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H077,4.55,5.0,5.0,0.0,5.0,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H078,2.5,2.75,2.75,0.0,2.75,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H079,2.59,2.85,2.85,0.0,2.85,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H080,3.77,4.14,4.14,0.0,4.14,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H081,3.77,4.14,4.14,0.0,4.14,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H082,2.49,2.74,2.74,0.0,2.74,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H083,2.78,3.06,3.06,0.0,3.06,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H085,3.47,3.82,3.82,0.0,3.82,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H087,4.02,4.42,4.42,0.0,4.42,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H088,2.04,2.24,2.24,0.0,2.24,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H090,3.94,4.33,4.33,0.0,4.33,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H093,4.83,5.31,5.31,0.0,5.31,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H094,2.51,2.76,2.76,0.0,2.76,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H095,2.42,2.66,2.66,0.0,2.66,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H096,3.88,4.27,4.27,0.0,4.27,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H098,2.87,3.16,3.16,0.0,3.16,True,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:00:00,PV_H099,2.82,3.1,3.1,0.0,3.1,False,0.0,0.0,NORMAL,NONE,Normal feeder conditions: unconstrained solar export permitted
+2011-09-16 14:15:00,PV_H002,3.38,3.91,3.91,0.0,3.91,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H003,2.72,3.15,3.15,0.0,3.15,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H005,2.74,3.17,3.17,0.0,3.17,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H006,1.73,2.0,2.0,0.0,2.0,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H007,3.39,3.93,3.93,0.0,3.93,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H010,2.61,3.02,3.02,0.0,3.02,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H016,1.81,2.1,2.1,0.0,2.1,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H017,3.13,3.62,3.62,0.0,3.62,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H018,2.01,2.33,2.33,0.0,2.33,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H021,4.66,5.39,5.39,0.0,5.39,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H024,1.73,2.0,2.0,0.0,2.0,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H025,3.29,3.81,3.81,0.0,3.81,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H026,3.17,3.67,3.67,0.0,3.67,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H027,3.06,3.54,3.54,0.0,3.54,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H032,2.76,3.2,3.2,0.0,3.2,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H033,2.09,2.42,2.42,0.0,2.42,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H034,3.42,3.96,3.96,0.0,3.96,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H035,2.57,2.98,2.98,0.0,2.98,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H036,3.01,3.49,3.49,0.0,3.49,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H037,2.9,3.36,3.36,0.0,3.36,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H040,3.54,4.1,4.1,0.0,4.1,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H042,2.2,2.55,2.55,0.0,2.55,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H044,2.88,3.34,3.34,0.0,3.34,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H046,3.69,4.27,4.27,0.0,4.27,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H048,2.69,3.11,3.11,0.0,3.11,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H049,2.39,2.77,2.77,0.0,2.77,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H050,3.37,3.9,3.9,0.0,3.9,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H053,3.92,4.54,4.54,0.0,4.54,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H055,2.39,2.77,2.77,0.0,2.77,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H057,3.75,4.34,4.34,0.0,4.34,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H058,2.59,3.0,3.0,0.0,3.0,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H060,4.81,5.57,5.57,0.0,5.57,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H061,2.65,3.07,3.07,0.0,3.07,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H062,5.18,6.0,6.0,0.0,6.0,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H063,3.47,4.02,4.02,0.0,4.02,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H066,3.83,4.43,4.43,0.0,4.43,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H067,2.27,2.63,2.63,0.0,2.63,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H069,3.09,3.58,3.58,0.0,3.58,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H071,3.95,4.57,4.57,0.0,4.57,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H072,4.47,5.17,5.17,0.0,5.17,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H073,3.2,3.71,3.71,0.0,3.71,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H074,3.54,4.1,4.1,0.0,4.1,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H076,4.05,4.69,4.69,0.0,4.69,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H077,4.32,5.0,5.0,0.0,5.0,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H078,2.38,2.75,2.75,0.0,2.75,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H079,2.46,2.85,2.85,0.0,2.85,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H080,3.58,4.14,4.14,0.0,4.14,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H081,3.58,4.14,4.14,0.0,4.14,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H082,2.37,2.74,2.74,0.0,2.74,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H083,2.64,3.06,3.06,0.0,3.06,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H085,3.3,3.82,3.82,0.0,3.82,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H087,3.82,4.42,4.42,0.0,4.42,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H088,1.93,2.24,2.24,0.0,2.24,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H090,3.74,4.33,4.33,0.0,4.33,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H093,4.59,5.31,5.31,0.0,5.31,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H094,2.38,2.76,2.76,0.0,2.76,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H095,2.3,2.66,2.66,0.0,2.66,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H096,3.69,4.27,4.27,0.0,4.27,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H098,2.73,3.16,3.16,0.0,3.16,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:15:00,PV_H099,2.68,3.1,3.1,0.0,3.1,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H002,2.88,3.91,3.91,0.0,3.91,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H003,2.32,3.15,3.15,0.0,3.15,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H005,2.33,3.17,3.17,0.0,3.17,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H006,1.47,2.0,2.0,0.0,2.0,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H007,2.89,3.93,3.93,0.0,3.93,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H010,2.22,3.02,3.02,0.0,3.02,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H016,1.55,2.1,2.1,0.0,2.1,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H017,2.67,3.62,3.62,0.0,3.62,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H018,1.72,2.33,2.33,0.0,2.33,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H021,3.97,5.39,5.39,0.0,5.39,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H024,1.47,2.0,2.0,0.0,2.0,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H025,2.81,3.81,3.81,0.0,3.81,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H026,2.7,3.67,3.67,0.0,3.67,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H027,2.61,3.54,3.54,0.0,3.54,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H032,2.36,3.2,3.2,0.0,3.2,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H033,1.78,2.42,2.42,0.0,2.42,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H034,2.92,3.96,3.96,0.0,3.96,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H035,2.19,2.98,2.98,0.0,2.98,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H036,2.57,3.49,3.49,0.0,3.49,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H037,2.47,3.36,3.36,0.0,3.36,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H040,3.02,4.1,4.1,0.0,4.1,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H042,1.88,2.55,2.55,0.0,2.55,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H044,2.46,3.34,3.34,0.0,3.34,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H046,3.15,4.27,4.27,0.0,4.27,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H048,2.29,3.11,3.11,0.0,3.11,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H049,2.04,2.77,2.77,0.0,2.77,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H050,2.87,3.9,3.9,0.0,3.9,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H053,3.34,4.54,4.54,0.0,4.54,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H055,2.04,2.77,2.77,0.0,2.77,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H057,3.2,4.34,4.34,0.0,4.34,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H058,2.21,3.0,3.0,0.0,3.0,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H060,4.1,5.57,5.57,0.0,5.57,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H061,2.26,3.07,3.07,0.0,3.07,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H062,4.42,6.0,6.0,0.0,6.0,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H063,2.96,4.02,4.02,0.0,4.02,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H066,3.26,4.43,4.43,0.0,4.43,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H067,1.94,2.63,2.63,0.0,2.63,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H069,2.64,3.58,3.58,0.0,3.58,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H071,3.37,4.57,4.57,0.0,4.57,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H072,3.81,5.17,5.17,0.0,5.17,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H073,2.73,3.71,3.71,0.0,3.71,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H074,3.02,4.1,4.1,0.0,4.1,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H076,3.45,4.69,4.69,0.0,4.69,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H077,3.68,5.0,5.0,0.0,5.0,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H078,2.03,2.75,2.75,0.0,2.75,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H079,2.1,2.85,2.85,0.0,2.85,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H080,3.05,4.14,4.14,0.0,4.14,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H081,3.05,4.14,4.14,0.0,4.14,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H082,2.02,2.74,2.74,0.0,2.74,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H083,2.25,3.06,3.06,0.0,3.06,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H085,2.81,3.82,3.82,0.0,3.82,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H087,3.26,4.42,4.42,0.0,4.42,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H088,1.65,2.24,2.24,0.0,2.24,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H090,3.19,4.33,4.33,0.0,4.33,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H093,3.91,5.31,5.31,0.0,5.31,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H094,2.03,2.76,2.76,0.0,2.76,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H095,1.96,2.66,2.66,0.0,2.66,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H096,3.15,4.27,4.27,0.0,4.27,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H098,2.33,3.16,3.16,0.0,3.16,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:30:00,PV_H099,2.28,3.1,3.1,0.0,3.1,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H002,2.96,3.91,3.91,0.0,3.91,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H003,2.39,3.15,3.15,0.0,3.15,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H005,2.4,3.17,3.17,0.0,3.17,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H006,1.52,2.0,2.0,0.0,2.0,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H007,2.98,3.93,3.93,0.0,3.93,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H010,2.29,3.02,3.02,0.0,3.02,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H016,1.59,2.1,2.1,0.0,2.1,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H017,2.74,3.62,3.62,0.0,3.62,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H018,1.77,2.33,2.33,0.0,2.33,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H021,4.09,5.39,5.39,0.0,5.39,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H024,1.52,2.0,2.0,0.0,2.0,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H025,2.89,3.81,3.81,0.0,3.81,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H026,2.78,3.67,3.67,0.0,3.67,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H027,2.68,3.54,3.54,0.0,3.54,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H032,2.43,3.2,3.2,0.0,3.2,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H033,1.83,2.42,2.42,0.0,2.42,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H034,3.0,3.96,3.96,0.0,3.96,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H035,2.26,2.98,2.98,0.0,2.98,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H036,2.65,3.49,3.49,0.0,3.49,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H037,2.55,3.36,3.36,0.0,3.36,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H040,3.11,4.1,4.1,0.0,4.1,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H042,1.93,2.55,2.55,0.0,2.55,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H044,2.53,3.34,3.34,0.0,3.34,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H046,3.24,4.27,4.27,0.0,4.27,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H048,2.36,3.11,3.11,0.0,3.11,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H049,2.1,2.77,2.77,0.0,2.77,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H050,2.96,3.9,3.9,0.0,3.9,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H053,3.44,4.54,4.54,0.0,4.54,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H055,2.1,2.77,2.77,0.0,2.77,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H057,3.29,4.34,4.34,0.0,4.34,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H058,2.27,3.0,3.0,0.0,3.0,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H060,4.22,5.57,5.57,0.0,5.57,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H061,2.33,3.07,3.07,0.0,3.07,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H062,4.55,6.0,6.0,0.0,6.0,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H063,3.05,4.02,4.02,0.0,4.02,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H066,3.36,4.43,4.43,0.0,4.43,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H067,1.99,2.63,2.63,0.0,2.63,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H069,2.71,3.58,3.58,0.0,3.58,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H071,3.46,4.57,4.57,0.0,4.57,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H072,3.92,5.17,5.17,0.0,5.17,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H073,2.81,3.71,3.71,0.0,3.71,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H074,3.11,4.1,4.1,0.0,4.1,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H076,3.56,4.69,4.69,0.0,4.69,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H077,3.79,5.0,5.0,0.0,5.0,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H078,2.08,2.75,2.75,0.0,2.75,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H079,2.16,2.85,2.85,0.0,2.85,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H080,3.14,4.14,4.14,0.0,4.14,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H081,3.14,4.14,4.14,0.0,4.14,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H082,2.08,2.74,2.74,0.0,2.74,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H083,2.32,3.06,3.06,0.0,3.06,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H085,2.9,3.82,3.82,0.0,3.82,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H087,3.35,4.42,4.42,0.0,4.42,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H088,1.7,2.24,2.24,0.0,2.24,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H090,3.28,4.33,4.33,0.0,4.33,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H093,4.03,5.31,5.31,0.0,5.31,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H094,2.09,2.76,2.76,0.0,2.76,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H095,2.02,2.66,2.66,0.0,2.66,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H096,3.24,4.27,4.27,0.0,4.27,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H098,2.4,3.16,3.16,0.0,3.16,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 14:45:00,PV_H099,2.35,3.1,3.1,0.0,3.1,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H002,2.04,3.91,3.91,0.0,3.91,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H003,1.65,3.15,3.15,0.0,3.15,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H005,1.66,3.17,3.17,0.0,3.17,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H006,1.04,2.0,2.0,0.0,2.0,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H007,2.05,3.93,3.93,0.0,3.93,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H010,1.58,3.02,3.02,0.0,3.02,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H016,1.1,2.1,2.1,0.0,2.1,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H017,1.89,3.62,3.62,0.0,3.62,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H018,1.22,2.33,2.33,0.0,2.33,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H021,2.82,5.39,5.39,0.0,5.39,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H024,1.04,2.0,2.0,0.0,2.0,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H025,1.99,3.81,3.81,0.0,3.81,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H026,1.92,3.67,3.67,0.0,3.67,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H027,1.85,3.54,3.54,0.0,3.54,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H032,1.67,3.2,3.2,0.0,3.2,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H033,1.26,2.42,2.42,0.0,2.42,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H034,2.07,3.96,3.96,0.0,3.96,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H035,1.56,2.98,2.98,0.0,2.98,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H036,1.82,3.49,3.49,0.0,3.49,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H037,1.76,3.36,3.36,0.0,3.36,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H040,2.14,4.1,4.1,0.0,4.1,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H042,1.33,2.55,2.55,0.0,2.55,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H044,1.75,3.34,3.34,0.0,3.34,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H046,2.23,4.27,4.27,0.0,4.27,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H048,1.62,3.11,3.11,0.0,3.11,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H049,1.45,2.77,2.77,0.0,2.77,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H050,2.04,3.9,3.9,0.0,3.9,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H053,2.37,4.54,4.54,0.0,4.54,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H055,1.45,2.77,2.77,0.0,2.77,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H057,2.27,4.34,4.34,0.0,4.34,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H058,1.57,3.0,3.0,0.0,3.0,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H060,2.91,5.57,5.57,0.0,5.57,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H061,1.6,3.07,3.07,0.0,3.07,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H062,3.13,6.0,6.0,0.0,6.0,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H063,2.1,4.02,4.02,0.0,4.02,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H066,2.31,4.43,4.43,0.0,4.43,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H067,1.37,2.63,2.63,0.0,2.63,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H069,1.87,3.58,3.58,0.0,3.58,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H071,2.39,4.57,4.57,0.0,4.57,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H072,2.7,5.17,5.17,0.0,5.17,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H073,1.94,3.71,3.71,0.0,3.71,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H074,2.14,4.1,4.1,0.0,4.1,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H076,2.45,4.69,4.69,0.0,4.69,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H077,2.61,5.0,5.0,0.0,5.0,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H078,1.44,2.75,2.75,0.0,2.75,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H079,1.49,2.85,2.85,0.0,2.85,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H080,2.16,4.14,4.14,0.0,4.14,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H081,2.16,4.14,4.14,0.0,4.14,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H082,1.43,2.74,2.74,0.0,2.74,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H083,1.6,3.06,3.06,0.0,3.06,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H085,2.0,3.82,3.82,0.0,3.82,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H087,2.31,4.42,4.42,0.0,4.42,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H088,1.17,2.24,2.24,0.0,2.24,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H090,2.26,4.33,4.33,0.0,4.33,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H093,2.77,5.31,5.31,0.0,5.31,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H094,1.44,2.76,2.76,0.0,2.76,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H095,1.39,2.66,2.66,0.0,2.66,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H096,2.23,4.27,4.27,0.0,4.27,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H098,1.65,3.16,3.16,0.0,3.16,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:00:00,PV_H099,1.62,3.1,3.1,0.0,3.1,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H002,2.14,3.91,3.91,0.0,3.91,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H003,1.73,3.15,3.15,0.0,3.15,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H005,1.74,3.17,3.17,0.0,3.17,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H006,1.1,2.0,2.0,0.0,2.0,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H007,2.15,3.93,3.93,0.0,3.93,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H010,1.65,3.02,3.02,0.0,3.02,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H016,1.15,2.1,2.1,0.0,2.1,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H017,1.98,3.62,3.62,0.0,3.62,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H018,1.28,2.33,2.33,0.0,2.33,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H021,2.95,5.39,5.39,0.0,5.39,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H024,1.1,2.0,2.0,0.0,2.0,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H025,2.09,3.81,3.81,0.0,3.81,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H026,2.01,3.67,3.67,0.0,3.67,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H027,1.94,3.54,3.54,0.0,3.54,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H032,1.75,3.2,3.2,0.0,3.2,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H033,1.33,2.42,2.42,0.0,2.42,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H034,2.17,3.96,3.96,0.0,3.96,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H035,1.63,2.98,2.98,0.0,2.98,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H036,1.91,3.49,3.49,0.0,3.49,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H037,1.84,3.36,3.36,0.0,3.36,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H040,2.25,4.1,4.1,0.0,4.1,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H042,1.4,2.55,2.55,0.0,2.55,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H044,1.83,3.34,3.34,0.0,3.34,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H046,2.34,4.27,4.27,0.0,4.27,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H048,1.7,3.11,3.11,0.0,3.11,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H049,1.52,2.77,2.77,0.0,2.77,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H050,2.14,3.9,3.9,0.0,3.9,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H053,2.49,4.54,4.54,0.0,4.54,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H055,1.52,2.77,2.77,0.0,2.77,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H057,2.38,4.34,4.34,0.0,4.34,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H058,1.64,3.0,3.0,0.0,3.0,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H060,3.05,5.57,5.57,0.0,5.57,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H061,1.68,3.07,3.07,0.0,3.07,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H062,3.29,6.0,6.0,0.0,6.0,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H063,2.2,4.02,4.02,0.0,4.02,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H066,2.43,4.43,4.43,0.0,4.43,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H067,1.44,2.63,2.63,0.0,2.63,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H069,1.96,3.58,3.58,0.0,3.58,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H071,2.5,4.57,4.57,0.0,4.57,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H072,2.83,5.17,5.17,0.0,5.17,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H073,2.03,3.71,3.71,0.0,3.71,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H074,2.25,4.1,4.1,0.0,4.1,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H076,2.57,4.69,4.69,0.0,4.69,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H077,2.74,5.0,5.0,0.0,5.0,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H078,1.51,2.75,2.75,0.0,2.75,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H079,1.56,2.85,2.85,0.0,2.85,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H080,2.27,4.14,4.14,0.0,4.14,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H081,2.27,4.14,4.14,0.0,4.14,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H082,1.5,2.74,2.74,0.0,2.74,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H083,1.68,3.06,3.06,0.0,3.06,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H085,2.09,3.82,3.82,0.0,3.82,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H087,2.42,4.42,4.42,0.0,4.42,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H088,1.23,2.24,2.24,0.0,2.24,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H090,2.37,4.33,4.33,0.0,4.33,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H093,2.91,5.31,5.31,0.0,5.31,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H094,1.51,2.76,2.76,0.0,2.76,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H095,1.46,2.66,2.66,0.0,2.66,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H096,2.34,4.27,4.27,0.0,4.27,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H098,1.73,3.16,3.16,0.0,3.16,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:15:00,PV_H099,1.7,3.1,3.1,0.0,3.1,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H002,1.29,3.91,3.91,0.0,3.91,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H003,1.04,3.15,3.15,0.0,3.15,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H005,1.05,3.17,3.17,0.0,3.17,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H006,0.66,2.0,2.0,0.0,2.0,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H007,1.3,3.93,3.93,0.0,3.93,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H010,1.0,3.02,3.02,0.0,3.02,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H016,0.69,2.1,2.1,0.0,2.1,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H017,1.2,3.62,3.62,0.0,3.62,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H018,0.77,2.33,2.33,0.0,2.33,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H021,1.78,5.39,5.39,0.0,5.39,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H024,0.66,2.0,2.0,0.0,2.0,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H025,1.26,3.81,3.81,0.0,3.81,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H026,1.21,3.67,3.67,0.0,3.67,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H027,1.17,3.54,3.54,0.0,3.54,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H032,1.06,3.2,3.2,0.0,3.2,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H033,0.8,2.42,2.42,0.0,2.42,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H034,1.31,3.96,3.96,0.0,3.96,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H035,0.98,2.98,2.98,0.0,2.98,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H036,1.15,3.49,3.49,0.0,3.49,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H037,1.11,3.36,3.36,0.0,3.36,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H040,1.35,4.1,4.1,0.0,4.1,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H042,0.84,2.55,2.55,0.0,2.55,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H044,1.1,3.34,3.34,0.0,3.34,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H046,1.41,4.27,4.27,0.0,4.27,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H048,1.03,3.11,3.11,0.0,3.11,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H049,0.91,2.77,2.77,0.0,2.77,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H050,1.29,3.9,3.9,0.0,3.9,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H053,1.5,4.54,4.54,0.0,4.54,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H055,0.91,2.77,2.77,0.0,2.77,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H057,1.43,4.34,4.34,0.0,4.34,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H058,0.99,3.0,3.0,0.0,3.0,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H060,1.84,5.57,5.57,0.0,5.57,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H061,1.01,3.07,3.07,0.0,3.07,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H062,1.98,6.0,6.0,0.0,6.0,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H063,1.33,4.02,4.02,0.0,4.02,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H066,1.46,4.43,4.43,0.0,4.43,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H067,0.87,2.63,2.63,0.0,2.63,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H069,1.18,3.58,3.58,0.0,3.58,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H071,1.51,4.57,4.57,0.0,4.57,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H072,1.71,5.17,5.17,0.0,5.17,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H073,1.23,3.71,3.71,0.0,3.71,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H074,1.35,4.1,4.1,0.0,4.1,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H076,1.55,4.69,4.69,0.0,4.69,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H077,1.65,5.0,5.0,0.0,5.0,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H078,0.91,2.75,2.75,0.0,2.75,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H079,0.94,2.85,2.85,0.0,2.85,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H080,1.37,4.14,4.14,0.0,4.14,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H081,1.37,4.14,4.14,0.0,4.14,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H082,0.9,2.74,2.74,0.0,2.74,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H083,1.01,3.06,3.06,0.0,3.06,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H085,1.26,3.82,3.82,0.0,3.82,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H087,1.46,4.42,4.42,0.0,4.42,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H088,0.74,2.24,2.24,0.0,2.24,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H090,1.43,4.33,4.33,0.0,4.33,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H093,1.75,5.31,5.31,0.0,5.31,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H094,0.91,2.76,2.76,0.0,2.76,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H095,0.88,2.66,2.66,0.0,2.66,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H096,1.41,4.27,4.27,0.0,4.27,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H098,1.04,3.16,3.16,0.0,3.16,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:30:00,PV_H099,1.02,3.1,3.1,0.0,3.1,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H002,1.47,3.91,3.91,0.0,3.91,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H003,1.19,3.15,3.15,0.0,3.15,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H005,1.19,3.17,3.17,0.0,3.17,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H006,0.75,2.0,2.0,0.0,2.0,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H007,1.48,3.93,3.93,0.0,3.93,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H010,1.14,3.02,3.02,0.0,3.02,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H016,0.79,2.1,2.1,0.0,2.1,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H017,1.36,3.62,3.62,0.0,3.62,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H018,0.88,2.33,2.33,0.0,2.33,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H021,2.03,5.39,5.39,0.0,5.39,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H024,0.75,2.0,2.0,0.0,2.0,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H025,1.43,3.81,3.81,0.0,3.81,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H026,1.38,3.67,3.67,0.0,3.67,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H027,1.33,3.54,3.54,0.0,3.54,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H032,1.2,3.2,3.2,0.0,3.2,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H033,0.91,2.42,2.42,0.0,2.42,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H034,1.49,3.96,3.96,0.0,3.96,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H035,1.12,2.98,2.98,0.0,2.98,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H036,1.31,3.49,3.49,0.0,3.49,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H037,1.26,3.36,3.36,0.0,3.36,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H040,1.54,4.1,4.1,0.0,4.1,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H042,0.96,2.55,2.55,0.0,2.55,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H044,1.26,3.34,3.34,0.0,3.34,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H046,1.61,4.27,4.27,0.0,4.27,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H048,1.17,3.11,3.11,0.0,3.11,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H049,1.04,2.77,2.77,0.0,2.77,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H050,1.47,3.9,3.9,0.0,3.9,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H053,1.71,4.54,4.54,0.0,4.54,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H055,1.04,2.77,2.77,0.0,2.77,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H057,1.63,4.34,4.34,0.0,4.34,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H058,1.13,3.0,3.0,0.0,3.0,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H060,2.1,5.57,5.57,0.0,5.57,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H061,1.15,3.07,3.07,0.0,3.07,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H062,2.26,6.0,6.0,0.0,6.0,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H063,1.51,4.02,4.02,0.0,4.02,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H066,1.67,4.43,4.43,0.0,4.43,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H067,0.99,2.63,2.63,0.0,2.63,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H069,1.35,3.58,3.58,0.0,3.58,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H071,1.72,4.57,4.57,0.0,4.57,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H072,1.94,5.17,5.17,0.0,5.17,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H073,1.4,3.71,3.71,0.0,3.71,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H074,1.54,4.1,4.1,0.0,4.1,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H076,1.76,4.69,4.69,0.0,4.69,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H077,1.88,5.0,5.0,0.0,5.0,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H078,1.03,2.75,2.75,0.0,2.75,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H079,1.07,2.85,2.85,0.0,2.85,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H080,1.56,4.14,4.14,0.0,4.14,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H081,1.56,4.14,4.14,0.0,4.14,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H082,1.03,2.74,2.74,0.0,2.74,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H083,1.15,3.06,3.06,0.0,3.06,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H085,1.44,3.82,3.82,0.0,3.82,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H087,1.66,4.42,4.42,0.0,4.42,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H088,0.84,2.24,2.24,0.0,2.24,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H090,1.63,4.33,4.33,0.0,4.33,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H093,2.0,5.31,5.31,0.0,5.31,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H094,1.04,2.76,2.76,0.0,2.76,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H095,1.0,2.66,2.66,0.0,2.66,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H096,1.61,4.27,4.27,0.0,4.27,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H098,1.19,3.16,3.16,0.0,3.16,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 15:45:00,PV_H099,1.17,3.1,3.1,0.0,3.1,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H002,0.35,3.91,3.91,0.0,3.91,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H003,0.28,3.15,3.15,0.0,3.15,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H005,0.28,3.17,3.17,0.0,3.17,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H006,0.18,2.0,2.0,0.0,2.0,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H007,0.35,3.93,3.93,0.0,3.93,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H010,0.27,3.02,3.02,0.0,3.02,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H016,0.19,2.1,2.1,0.0,2.1,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H017,0.32,3.62,3.62,0.0,3.62,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H018,0.21,2.33,2.33,0.0,2.33,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H021,0.48,5.39,5.39,0.0,5.39,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H024,0.18,2.0,2.0,0.0,2.0,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H025,0.34,3.81,3.81,0.0,3.81,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H026,0.32,3.67,3.67,0.0,3.67,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H027,0.31,3.54,3.54,0.0,3.54,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H032,0.28,3.2,3.2,0.0,3.2,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H033,0.21,2.42,2.42,0.0,2.42,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H034,0.35,3.96,3.96,0.0,3.96,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H035,0.26,2.98,2.98,0.0,2.98,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H036,0.31,3.49,3.49,0.0,3.49,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H037,0.3,3.36,3.36,0.0,3.36,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H040,0.36,4.1,4.1,0.0,4.1,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H042,0.23,2.55,2.55,0.0,2.55,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H044,0.3,3.34,3.34,0.0,3.34,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H046,0.38,4.27,4.27,0.0,4.27,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H048,0.28,3.11,3.11,0.0,3.11,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H049,0.25,2.77,2.77,0.0,2.77,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H050,0.35,3.9,3.9,0.0,3.9,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H053,0.4,4.54,4.54,0.0,4.54,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H055,0.25,2.77,2.77,0.0,2.77,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H057,0.38,4.34,4.34,0.0,4.34,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H058,0.27,3.0,3.0,0.0,3.0,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H060,0.49,5.57,5.57,0.0,5.57,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H061,0.27,3.07,3.07,0.0,3.07,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H062,0.53,6.0,6.0,0.0,6.0,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H063,0.36,4.02,4.02,0.0,4.02,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H066,0.39,4.43,4.43,0.0,4.43,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H067,0.23,2.63,2.63,0.0,2.63,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H069,0.32,3.58,3.58,0.0,3.58,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H071,0.4,4.57,4.57,0.0,4.57,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H072,0.46,5.17,5.17,0.0,5.17,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H073,0.33,3.71,3.71,0.0,3.71,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H074,0.36,4.1,4.1,0.0,4.1,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H076,0.42,4.69,4.69,0.0,4.69,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H077,0.44,5.0,5.0,0.0,5.0,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H078,0.24,2.75,2.75,0.0,2.75,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H079,0.25,2.85,2.85,0.0,2.85,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H080,0.37,4.14,4.14,0.0,4.14,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H081,0.37,4.14,4.14,0.0,4.14,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H082,0.24,2.74,2.74,0.0,2.74,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H083,0.27,3.06,3.06,0.0,3.06,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H085,0.34,3.82,3.82,0.0,3.82,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H087,0.39,4.42,4.42,0.0,4.42,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H088,0.2,2.24,2.24,0.0,2.24,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H090,0.38,4.33,4.33,0.0,4.33,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H093,0.47,5.31,5.31,0.0,5.31,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H094,0.24,2.76,2.76,0.0,2.76,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H095,0.24,2.66,2.66,0.0,2.66,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H096,0.38,4.27,4.27,0.0,4.27,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H098,0.28,3.16,3.16,0.0,3.16,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:00:00,PV_H099,0.27,3.1,3.1,0.0,3.1,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H002,0.23,3.91,3.91,0.0,3.91,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H003,0.18,3.15,3.15,0.0,3.15,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H005,0.18,3.17,3.17,0.0,3.17,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H006,0.12,2.0,2.0,0.0,2.0,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H007,0.23,3.93,3.93,0.0,3.93,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H010,0.18,3.02,3.02,0.0,3.02,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H016,0.12,2.1,2.1,0.0,2.1,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H017,0.21,3.62,3.62,0.0,3.62,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H018,0.14,2.33,2.33,0.0,2.33,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H021,0.31,5.39,5.39,0.0,5.39,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H024,0.12,2.0,2.0,0.0,2.0,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H025,0.22,3.81,3.81,0.0,3.81,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H026,0.21,3.67,3.67,0.0,3.67,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H027,0.21,3.54,3.54,0.0,3.54,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H032,0.19,3.2,3.2,0.0,3.2,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H033,0.14,2.42,2.42,0.0,2.42,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H034,0.23,3.96,3.96,0.0,3.96,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H035,0.17,2.98,2.98,0.0,2.98,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H036,0.2,3.49,3.49,0.0,3.49,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H037,0.19,3.36,3.36,0.0,3.36,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H040,0.24,4.1,4.1,0.0,4.1,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H042,0.15,2.55,2.55,0.0,2.55,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H044,0.19,3.34,3.34,0.0,3.34,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H046,0.25,4.27,4.27,0.0,4.27,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H048,0.18,3.11,3.11,0.0,3.11,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H049,0.16,2.77,2.77,0.0,2.77,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H050,0.23,3.9,3.9,0.0,3.9,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H053,0.26,4.54,4.54,0.0,4.54,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H055,0.16,2.77,2.77,0.0,2.77,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H057,0.25,4.34,4.34,0.0,4.34,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H058,0.17,3.0,3.0,0.0,3.0,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H060,0.32,5.57,5.57,0.0,5.57,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H061,0.18,3.07,3.07,0.0,3.07,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H062,0.35,6.0,6.0,0.0,6.0,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H063,0.23,4.02,4.02,0.0,4.02,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H066,0.26,4.43,4.43,0.0,4.43,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H067,0.15,2.63,2.63,0.0,2.63,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H069,0.21,3.58,3.58,0.0,3.58,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H071,0.27,4.57,4.57,0.0,4.57,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H072,0.3,5.17,5.17,0.0,5.17,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H073,0.22,3.71,3.71,0.0,3.71,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H074,0.24,4.1,4.1,0.0,4.1,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H076,0.27,4.69,4.69,0.0,4.69,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H077,0.29,5.0,5.0,0.0,5.0,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H078,0.16,2.75,2.75,0.0,2.75,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H079,0.17,2.85,2.85,0.0,2.85,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H080,0.24,4.14,4.14,0.0,4.14,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H081,0.24,4.14,4.14,0.0,4.14,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H082,0.16,2.74,2.74,0.0,2.74,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H083,0.18,3.06,3.06,0.0,3.06,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H085,0.22,3.82,3.82,0.0,3.82,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H087,0.26,4.42,4.42,0.0,4.42,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H088,0.13,2.24,2.24,0.0,2.24,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H090,0.25,4.33,4.33,0.0,4.33,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H093,0.31,5.31,5.31,0.0,5.31,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H094,0.16,2.76,2.76,0.0,2.76,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H095,0.15,2.66,2.66,0.0,2.66,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H096,0.25,4.27,4.27,0.0,4.27,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H098,0.18,3.16,3.16,0.0,3.16,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:15:00,PV_H099,0.18,3.1,3.1,0.0,3.1,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H002,0.06,3.91,3.91,0.0,3.91,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H003,0.05,3.15,3.15,0.0,3.15,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H005,0.05,3.17,3.17,0.0,3.17,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H006,0.03,2.0,2.0,0.0,2.0,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H007,0.06,3.93,3.93,0.0,3.93,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H010,0.05,3.02,3.02,0.0,3.02,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H016,0.03,2.1,2.1,0.0,2.1,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H017,0.05,3.62,3.62,0.0,3.62,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H018,0.04,2.33,2.33,0.0,2.33,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H021,0.08,5.39,5.39,0.0,5.39,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H024,0.03,2.0,2.0,0.0,2.0,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H025,0.06,3.81,3.81,0.0,3.81,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H026,0.06,3.67,3.67,0.0,3.67,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H027,0.05,3.54,3.54,0.0,3.54,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H032,0.05,3.2,3.2,0.0,3.2,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H033,0.04,2.42,2.42,0.0,2.42,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H034,0.06,3.96,3.96,0.0,3.96,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H035,0.04,2.98,2.98,0.0,2.98,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H036,0.05,3.49,3.49,0.0,3.49,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H037,0.05,3.36,3.36,0.0,3.36,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H040,0.06,4.1,4.1,0.0,4.1,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H042,0.04,2.55,2.55,0.0,2.55,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H044,0.05,3.34,3.34,0.0,3.34,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H046,0.06,4.27,4.27,0.0,4.27,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H048,0.05,3.11,3.11,0.0,3.11,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H049,0.04,2.77,2.77,0.0,2.77,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H050,0.06,3.9,3.9,0.0,3.9,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H053,0.07,4.54,4.54,0.0,4.54,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H055,0.04,2.77,2.77,0.0,2.77,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H057,0.07,4.34,4.34,0.0,4.34,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H058,0.05,3.0,3.0,0.0,3.0,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H060,0.08,5.57,5.57,0.0,5.57,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H061,0.05,3.07,3.07,0.0,3.07,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H062,0.09,6.0,6.0,0.0,6.0,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H063,0.06,4.02,4.02,0.0,4.02,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H066,0.07,4.43,4.43,0.0,4.43,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H067,0.04,2.63,2.63,0.0,2.63,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H069,0.05,3.58,3.58,0.0,3.58,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H071,0.07,4.57,4.57,0.0,4.57,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H072,0.08,5.17,5.17,0.0,5.17,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H073,0.06,3.71,3.71,0.0,3.71,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H074,0.06,4.1,4.1,0.0,4.1,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H076,0.07,4.69,4.69,0.0,4.69,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H077,0.08,5.0,5.0,0.0,5.0,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H078,0.04,2.75,2.75,0.0,2.75,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H079,0.04,2.85,2.85,0.0,2.85,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H080,0.06,4.14,4.14,0.0,4.14,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H081,0.06,4.14,4.14,0.0,4.14,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H082,0.04,2.74,2.74,0.0,2.74,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H083,0.05,3.06,3.06,0.0,3.06,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H085,0.06,3.82,3.82,0.0,3.82,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H087,0.07,4.42,4.42,0.0,4.42,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H088,0.03,2.24,2.24,0.0,2.24,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H090,0.07,4.33,4.33,0.0,4.33,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H093,0.08,5.31,5.31,0.0,5.31,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H094,0.04,2.76,2.76,0.0,2.76,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H095,0.04,2.66,2.66,0.0,2.66,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H096,0.06,4.27,4.27,0.0,4.27,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H098,0.05,3.16,3.16,0.0,3.16,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:30:00,PV_H099,0.05,3.1,3.1,0.0,3.1,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H002,0.0,3.91,3.91,0.0,3.91,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H003,0.0,3.15,3.15,0.0,3.15,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H005,0.0,3.17,3.17,0.0,3.17,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H006,0.0,2.0,2.0,0.0,2.0,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H007,0.0,3.93,3.93,0.0,3.93,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H010,0.0,3.02,3.02,0.0,3.02,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H016,0.0,2.1,2.1,0.0,2.1,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H017,0.0,3.62,3.62,0.0,3.62,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H018,0.0,2.33,2.33,0.0,2.33,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H021,0.0,5.39,5.39,0.0,5.39,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H024,0.0,2.0,2.0,0.0,2.0,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H025,0.0,3.81,3.81,0.0,3.81,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H026,0.0,3.67,3.67,0.0,3.67,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H027,0.0,3.54,3.54,0.0,3.54,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H032,0.0,3.2,3.2,0.0,3.2,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H033,0.0,2.42,2.42,0.0,2.42,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H034,0.0,3.96,3.96,0.0,3.96,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H035,0.0,2.98,2.98,0.0,2.98,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H036,0.0,3.49,3.49,0.0,3.49,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H037,0.0,3.36,3.36,0.0,3.36,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H040,0.0,4.1,4.1,0.0,4.1,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H042,0.0,2.55,2.55,0.0,2.55,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H044,0.0,3.34,3.34,0.0,3.34,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H046,0.0,4.27,4.27,0.0,4.27,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H048,0.0,3.11,3.11,0.0,3.11,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H049,0.0,2.77,2.77,0.0,2.77,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H050,0.0,3.9,3.9,0.0,3.9,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H053,0.0,4.54,4.54,0.0,4.54,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H055,0.0,2.77,2.77,0.0,2.77,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H057,0.0,4.34,4.34,0.0,4.34,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H058,0.0,3.0,3.0,0.0,3.0,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H060,0.0,5.57,5.57,0.0,5.57,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H061,0.0,3.07,3.07,0.0,3.07,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H062,0.0,6.0,6.0,0.0,6.0,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H063,0.0,4.02,4.02,0.0,4.02,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H066,0.0,4.43,4.43,0.0,4.43,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H067,0.0,2.63,2.63,0.0,2.63,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H069,0.0,3.58,3.58,0.0,3.58,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H071,0.0,4.57,4.57,0.0,4.57,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H072,0.0,5.17,5.17,0.0,5.17,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H073,0.0,3.71,3.71,0.0,3.71,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H074,0.0,4.1,4.1,0.0,4.1,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H076,0.0,4.69,4.69,0.0,4.69,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H077,0.0,5.0,5.0,0.0,5.0,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H078,0.0,2.75,2.75,0.0,2.75,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H079,0.0,2.85,2.85,0.0,2.85,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H080,0.0,4.14,4.14,0.0,4.14,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H081,0.0,4.14,4.14,0.0,4.14,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H082,0.0,2.74,2.74,0.0,2.74,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H083,0.0,3.06,3.06,0.0,3.06,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H085,0.0,3.82,3.82,0.0,3.82,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H087,0.0,4.42,4.42,0.0,4.42,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H088,0.0,2.24,2.24,0.0,2.24,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H090,0.0,4.33,4.33,0.0,4.33,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H093,0.0,5.31,5.31,0.0,5.31,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H094,0.0,2.76,2.76,0.0,2.76,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H095,0.0,2.66,2.66,0.0,2.66,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H096,0.0,4.27,4.27,0.0,4.27,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H098,0.0,3.16,3.16,0.0,3.16,True,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 16:45:00,PV_H099,0.0,3.1,3.1,0.0,3.1,False,0.0,0.0,WATCH,NONE,Watch state: unconstrained export with active monitoring
+2011-09-16 17:00:00,PV_H002,0.0,3.91,3.91,0.0,3.91,True,0.0,0.03,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H003,0.0,3.15,3.15,0.0,3.15,True,0.0,0.03,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H005,0.0,3.17,3.17,0.0,3.17,False,0.0,0.03,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H006,0.0,2.0,2.0,0.0,2.0,True,0.0,0.03,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H007,0.0,3.93,3.93,0.0,3.93,False,0.0,0.03,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H010,0.0,3.02,3.02,0.0,3.02,False,0.0,0.03,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H016,0.0,2.1,2.1,0.0,2.1,True,0.0,0.03,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H017,0.0,3.62,3.62,0.0,3.62,True,0.0,0.03,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H018,0.0,2.33,2.33,0.0,2.33,True,0.0,0.03,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H021,0.0,5.39,5.39,0.0,5.39,True,0.0,0.03,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H024,0.0,2.0,2.0,0.0,2.0,True,0.0,0.03,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H025,0.0,3.81,3.81,0.0,3.81,False,0.0,0.03,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H026,0.0,3.67,3.67,0.0,3.67,False,0.0,0.03,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H027,0.0,3.54,3.54,0.0,3.54,True,0.0,0.03,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H032,0.0,3.2,3.2,0.0,3.2,False,0.0,0.03,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H033,0.0,2.42,2.42,0.0,2.42,True,0.0,0.03,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H034,0.0,3.96,3.96,0.0,3.96,True,0.0,0.03,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H035,0.0,2.98,2.98,0.0,2.98,True,0.0,0.03,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H036,0.0,3.49,3.49,0.0,3.49,False,0.0,0.05,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H037,0.0,3.36,3.36,0.0,3.36,False,0.0,0.05,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H040,0.0,4.1,4.1,0.0,4.1,False,0.0,0.05,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H042,0.0,2.55,2.55,0.0,2.55,True,0.0,0.05,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H044,0.0,3.34,3.34,0.0,3.34,False,0.0,0.05,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H046,0.0,4.27,4.27,0.0,4.27,False,0.0,0.05,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H048,0.0,3.11,3.11,0.0,3.11,False,0.0,0.05,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H049,0.0,2.77,2.77,0.0,2.77,True,0.0,0.05,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H050,0.0,3.9,3.9,0.0,3.9,True,0.0,0.05,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H053,0.0,4.54,4.54,0.0,4.54,False,0.0,0.05,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H055,0.0,2.77,2.77,0.0,2.77,True,0.0,0.05,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H057,0.0,4.34,4.34,0.0,4.34,True,0.0,0.05,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H058,0.0,3.0,3.0,0.0,3.0,True,0.0,0.05,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H060,0.0,5.57,5.57,0.0,5.57,True,0.0,0.05,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H061,0.0,3.07,3.07,0.0,3.07,True,0.0,0.05,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H062,0.0,6.0,6.0,0.0,6.0,False,0.0,0.05,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H063,0.0,4.02,4.02,0.0,4.02,False,0.0,0.05,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H066,0.0,4.43,4.43,0.0,4.43,False,0.0,0.05,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H067,0.0,2.63,2.63,0.0,2.63,True,0.0,0.05,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H069,0.0,3.58,3.58,0.0,3.58,True,0.0,0.05,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H071,0.0,4.57,4.57,0.0,4.57,True,0.0,0.07,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H072,0.0,5.17,5.17,0.0,5.17,True,0.0,0.07,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H073,0.0,3.71,3.71,0.0,3.71,True,0.0,0.07,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H074,0.0,4.1,4.1,0.0,4.1,False,0.0,0.07,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H076,0.0,4.69,4.69,0.0,4.69,True,0.0,0.07,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H077,0.0,5.0,5.0,0.0,5.0,True,0.0,0.07,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H078,0.0,2.75,2.75,0.0,2.75,False,0.0,0.07,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H079,0.0,2.85,2.85,0.0,2.85,True,0.0,0.07,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H080,0.0,4.14,4.14,0.0,4.14,False,0.0,0.07,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H081,0.0,4.14,4.14,0.0,4.14,True,0.0,0.07,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H082,0.0,2.74,2.74,0.0,2.74,True,0.0,0.07,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H083,0.0,3.06,3.06,0.0,3.06,True,0.0,0.07,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H085,0.0,3.82,3.82,0.0,3.82,False,0.0,0.07,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H087,0.0,4.42,4.42,0.0,4.42,False,0.0,0.07,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H088,0.0,2.24,2.24,0.0,2.24,False,0.0,0.07,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H090,0.0,4.33,4.33,0.0,4.33,True,0.0,0.07,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H093,0.0,5.31,5.31,0.0,5.31,True,0.0,0.07,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H094,0.0,2.76,2.76,0.0,2.76,True,0.0,0.07,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H095,0.0,2.66,2.66,0.0,2.66,False,0.0,0.07,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H096,0.0,4.27,4.27,0.0,4.27,True,0.0,0.07,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H098,0.0,3.16,3.16,0.0,3.16,True,0.0,0.07,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:00:00,PV_H099,0.0,3.1,3.1,0.0,3.1,False,0.0,0.07,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H002,0.0,3.91,3.91,0.0,3.91,True,0.0,0.03,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H003,0.0,3.15,3.15,0.0,3.15,True,0.0,0.03,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H005,0.0,3.17,3.17,0.0,3.17,False,0.0,0.03,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H006,0.0,2.0,2.0,0.0,2.0,True,0.0,0.03,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H007,0.0,3.93,3.93,0.0,3.93,False,0.0,0.03,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H010,0.0,3.02,3.02,0.0,3.02,False,0.0,0.03,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H016,0.0,2.1,2.1,0.0,2.1,True,0.0,0.03,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H017,0.0,3.62,3.62,0.0,3.62,True,0.0,0.03,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H018,0.0,2.33,2.33,0.0,2.33,True,0.0,0.03,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H021,0.0,5.39,5.39,0.0,5.39,True,0.0,0.03,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H024,0.0,2.0,2.0,0.0,2.0,True,0.0,0.03,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H025,0.0,3.81,3.81,0.0,3.81,False,0.0,0.03,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H026,0.0,3.67,3.67,0.0,3.67,False,0.0,0.03,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H027,0.0,3.54,3.54,0.0,3.54,True,0.0,0.03,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H032,0.0,3.2,3.2,0.0,3.2,False,0.0,0.03,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H033,0.0,2.42,2.42,0.0,2.42,True,0.0,0.03,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H034,0.0,3.96,3.96,0.0,3.96,True,0.0,0.03,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H035,0.0,2.98,2.98,0.0,2.98,True,0.0,0.03,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H036,0.0,3.49,3.49,0.0,3.49,False,0.0,0.05,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H037,0.0,3.36,3.36,0.0,3.36,False,0.0,0.05,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H040,0.0,4.1,4.1,0.0,4.1,False,0.0,0.05,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H042,0.0,2.55,2.55,0.0,2.55,True,0.0,0.05,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H044,0.0,3.34,3.34,0.0,3.34,False,0.0,0.05,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H046,0.0,4.27,4.27,0.0,4.27,False,0.0,0.05,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H048,0.0,3.11,3.11,0.0,3.11,False,0.0,0.05,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H049,0.0,2.77,2.77,0.0,2.77,True,0.0,0.05,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H050,0.0,3.9,3.9,0.0,3.9,True,0.0,0.05,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H053,0.0,4.54,4.54,0.0,4.54,False,0.0,0.05,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H055,0.0,2.77,2.77,0.0,2.77,True,0.0,0.05,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H057,0.0,4.34,4.34,0.0,4.34,True,0.0,0.05,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H058,0.0,3.0,3.0,0.0,3.0,True,0.0,0.05,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H060,0.0,5.57,5.57,0.0,5.57,True,0.0,0.05,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H061,0.0,3.07,3.07,0.0,3.07,True,0.0,0.05,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H062,0.0,6.0,6.0,0.0,6.0,False,0.0,0.05,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H063,0.0,4.02,4.02,0.0,4.02,False,0.0,0.05,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H066,0.0,4.43,4.43,0.0,4.43,False,0.0,0.05,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H067,0.0,2.63,2.63,0.0,2.63,True,0.0,0.05,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H069,0.0,3.58,3.58,0.0,3.58,True,0.0,0.05,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H071,0.0,4.57,4.57,0.0,4.57,True,0.0,0.07,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H072,0.0,5.17,5.17,0.0,5.17,True,0.0,0.07,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H073,0.0,3.71,3.71,0.0,3.71,True,0.0,0.07,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H074,0.0,4.1,4.1,0.0,4.1,False,0.0,0.07,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H076,0.0,4.69,4.69,0.0,4.69,True,0.0,0.07,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H077,0.0,5.0,5.0,0.0,5.0,True,0.0,0.07,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H078,0.0,2.75,2.75,0.0,2.75,False,0.0,0.07,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H079,0.0,2.85,2.85,0.0,2.85,True,0.0,0.07,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H080,0.0,4.14,4.14,0.0,4.14,False,0.0,0.07,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H081,0.0,4.14,4.14,0.0,4.14,True,0.0,0.07,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H082,0.0,2.74,2.74,0.0,2.74,True,0.0,0.07,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H083,0.0,3.06,3.06,0.0,3.06,True,0.0,0.07,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H085,0.0,3.82,3.82,0.0,3.82,False,0.0,0.07,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H087,0.0,4.42,4.42,0.0,4.42,False,0.0,0.07,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H088,0.0,2.24,2.24,0.0,2.24,False,0.0,0.07,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H090,0.0,4.33,4.33,0.0,4.33,True,0.0,0.07,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H093,0.0,5.31,5.31,0.0,5.31,True,0.0,0.07,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H094,0.0,2.76,2.76,0.0,2.76,True,0.0,0.07,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H095,0.0,2.66,2.66,0.0,2.66,False,0.0,0.07,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H096,0.0,4.27,4.27,0.0,4.27,True,0.0,0.07,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H098,0.0,3.16,3.16,0.0,3.16,True,0.0,0.07,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP
+2011-09-16 17:15:00,PV_H099,0.0,3.1,3.1,0.0,3.1,False,0.0,0.07,CONSTRAINED,VOLTAGE_DROP,Solar export allowed without restriction to support feeder load during VOLTAGE_DROP

@@ -1,0 +1,12 @@
+metric_name,metric_value,unit
+total_envelope_tightening_kw,2418.0,kW
+mean_envelope_tightening_kw,1.8,kW
+envelope_utilization_pct,1.8,%
+pct_timesteps_restricted,100.0,%
+total_curtailed_pv_kwh,0.0,kWh
+battery_flexibility_reserved_kw,50.0,kW
+ev_charging_restricted_kwh,592.0,kWh
+flexible_load_restricted_kwh,0.0,kWh
+number_of_ders_affected,21.0,count
+number_of_constraint_events,169.0,count
+average_envelope_recovery_minutes,0.0,minutes

@@ -1,0 +1,8 @@
+scenario,case,peak_transformer_loading_percent,transformer_overload_duration_min,peak_line_loading_percent,line_overload_duration_min,minimum_voltage_pu,voltage_violation_duration_min,peak_reverse_power_kw,reverse_power_duration_min,peak_grid_import_kw,peak_grid_export_kw,total_constraint_violation_count,total_pv_curtailment_kwh,battery_discharge_kwh,ev_shifted_energy_kwh,unserved_flexibility_kwh
+NORMAL_DAY,CASE_A_BASELINE,56.36,0,95.37,45,0.9236,120,138.61,150,126.23,138.61,10,0.0,0.0,0.0,0.0
+NORMAL_DAY,CASE_B_GRIDFLEX,56.36,0,95.37,45,0.9321,120,138.61,150,103.35,138.61,10,0.0,0.0,10.88,0.0
+PARTICIPATION,GRIDFLEX_100PCT,56.36,0,95.37,45,0.9321,120,138.61,150,103.35,138.61,10,0.0,0.0,10.88,0.0
+PARTICIPATION,GRIDFLEX_70PCT,56.36,0,95.37,45,0.9296,120,138.61,150,110.13,138.61,10,0.0,0.0,7.62,0.0
+PARTICIPATION,GRIDFLEX_40PCT,56.36,0,95.37,45,0.9236,120,138.61,150,126.23,138.61,10,0.0,0.0,4.35,0.0
+CLOUD_EVENT,CASE_A_BASELINE_CLOUD,56.36,0,95.37,45,0.9236,120,138.61,90,126.23,138.61,10,0.0,0.0,0.0,0.0
+CLOUD_EVENT,CASE_B_GRIDFLEX_CLOUD,56.36,0,95.37,45,0.9321,120,138.61,90,103.35,138.61,10,0.0,0.0,10.88,0.0

@@ -1,0 +1,31 @@
+# =============================================================================
+# GridFlex Local — Phase 6: Optimization & Dispatch Planning Configuration
+# =============================================================================
+
+weights:
+  # Primary objective: Eliminate grid constraint violations (transformer overload, voltage breaches)
+  constraint_violation: 1000.0   # [weight] highest priority: grid feasibility
+
+  # Secondary objectives
+  flexibility_activation: 1.0     # [weight] minimize unnecessary DER activation
+  pv_curtailment: 10.0           # [weight] strongly penalize clean solar energy wastage
+  battery_cycling: 2.5           # [weight] penalize battery degradation / unnecessary round-trip cycling
+  shifting: 1.5                  # [weight] customer convenience penalty for shifting EV/load demand
+  participation: 3.0             # [weight] fairness rotation penalty for repeated activations
+
+limits:
+  transformer_warning_loading_pct: 80.0  # [engineering-assumption] transformer warning threshold
+  transformer_max_loading_pct: 100.0     # [engineering-assumption] transformer rated limit
+  voltage_min_pu: 0.950                  # [engineering-assumption] lower voltage warning boundary
+  voltage_max_pu: 1.050                  # [engineering-assumption] upper voltage warning boundary
+
+solver:
+  engine: "scipy_linprog"                # [engine] scipy.optimize.linprog with HiGHS interior-point / simplex
+  method: "highs"                        # [solver] high-performance open-source linear/MILP solver
+  max_iter: 10000
+  tolerance: 1.0e-7
+  presolve: true
+
+scenarios:
+  default_participation_rate: 0.70
+  sensitivity_rates: [1.00, 0.70, 0.40]

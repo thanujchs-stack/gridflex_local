@@ -1,0 +1,6 @@
+scenario,feeder_name,transformer_sn_mva,transformer_vk_pct,line_r_ohm_per_km,line_x_ohm_per_km,line_max_i_ka,voltage_min_pu,voltage_max_pu,topology_identical,loads_identical,pv_availability_identical,only_schedule_differs,integrity_pass
+SCENARIO_1_HIGH_PV_LOW_DEMAND,GridFlex_LV_Feeder_01,0.25,4.0,0.384,0.082,0.22,0.95,1.05,True,True,True,True,True
+SCENARIO_2_EV_PEAK_CONGESTION,GridFlex_LV_Feeder_01,0.25,4.0,0.384,0.082,0.22,0.95,1.05,True,True,True,True,True
+SCENARIO_3_CLOUD_INTERMITTENCY,GridFlex_LV_Feeder_01,0.25,4.0,0.384,0.082,0.22,0.95,1.05,True,True,True,True,True
+SCENARIO_4_LOW_PARTICIPATION,GridFlex_LV_Feeder_01,0.25,4.0,0.384,0.082,0.22,0.95,1.05,True,True,True,True,True
+SCENARIO_5_COMBINED_DIURNAL_STRESS,GridFlex_LV_Feeder_01,0.25,4.0,0.384,0.082,0.22,0.95,1.05,True,True,True,True,True

@@ -1,0 +1,37 @@
+version: '1.0'
+last_updated: '2026-10-02 17:23:01'
+access_log:
+- dataset: SUNY India Solar Resource
+  source_url: https://developer.nlr.gov/api/nsrdb/v2/solar/suny-india-download.csv
+  access_date: '2026-10-02 17:23:01'
+  status: CACHED
+  sha256: dd5a83adde2895cb71634efc4ab3d625cdcd50218c475418406d8912a38413d8
+  notes: Automated download via official NREL/NLR NSRDB API v2
+- dataset: Ausgrid Solar Home Electricity Dataset
+  source_url: https://pierreh.eu/downloads/Ausgrid_solar_home_data.zip
+  access_date: '2026-10-02 17:23:01'
+  status: CACHED
+  sha256: a7d6abd1369311a5566e00d249141fd8aec28e9faba0bc928788607d961fc8c8
+  notes: Extracted Solar home 2011-2012.csv from official CC BY 3.0 AU distribution
+    archive
+- dataset: IIIT-Delhi Indian Dataset for Ambient Water and Energy (iAWE)
+  source_url: https://raw.githubusercontent.com/nipunbatra/Home_Deployment/master/dataset/smart_meter.csv
+  access_date: '2026-10-02 17:23:01'
+  status: CACHED
+  sha256: 593fec4f7617e8af93aafea32c2e9bdeae71c78b7cb2d7f2d86f67e4ad9c7d92
+  notes: Automated retrieval of whole-house smart meter records from IIIT-Delhi Home
+    Deployment repository
+- dataset: Grid-India / NERLDC Demand, Solar and Wind Dataset
+  source_url: https://data.mendeley.com/datasets/y58jknpgs8/2
+  access_date: '2026-10-02 17:23:01'
+  status: ACCESS_LIMITATION_DOCUMENTED
+  http_status: 401
+  reason: Automated machine download is restricted by Elsevier/Mendeley Data OAuth
+    2.0 authentication (HTTP 401). Interactive browser download or registered developer
+    token is required.
+  manual_action_required: '1. Navigate in browser to https://data.mendeley.com/datasets/y58jknpgs8/2
+
+    2. Click ''Download All Files'' to obtain the hourly demand, solar, and wind CSV/Excel
+    files.
+
+    3. Place extracted files in data/external/grid_india/ for bulk system integration.'

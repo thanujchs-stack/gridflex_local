@@ -1,0 +1,17 @@
+timestamp,der_id,max_charge_kw,dynamic_charge_limit_kw,max_discharge_kw,dynamic_discharge_limit_kw,soc,minimum_soc,maximum_soc,reserve_soc,risk_state,constraint_type,reason
+2011-09-16 13:30:00,BESS_COMMUNITY_01,25.0,25.0,25.0,25.0,0.5,0.2,0.9,0.1,NORMAL,NONE,Normal conditions: full battery operating capability available
+2011-09-16 13:45:00,BESS_COMMUNITY_01,25.0,25.0,25.0,25.0,0.5,0.2,0.9,0.1,NORMAL,NONE,Normal conditions: full battery operating capability available
+2011-09-16 14:00:00,BESS_COMMUNITY_01,25.0,25.0,25.0,25.0,0.5,0.2,0.9,0.1,NORMAL,NONE,Normal conditions: full battery operating capability available
+2011-09-16 14:15:00,BESS_COMMUNITY_01,25.0,25.0,25.0,25.0,0.5,0.2,0.9,0.1,WATCH,NONE,Watch state: operating within verified SOC limits
+2011-09-16 14:30:00,BESS_COMMUNITY_01,25.0,25.0,25.0,25.0,0.5,0.2,0.9,0.1,WATCH,NONE,Watch state: operating within verified SOC limits
+2011-09-16 14:45:00,BESS_COMMUNITY_01,25.0,25.0,25.0,25.0,0.5,0.2,0.9,0.1,WATCH,NONE,Watch state: operating within verified SOC limits
+2011-09-16 15:00:00,BESS_COMMUNITY_01,25.0,25.0,25.0,25.0,0.5,0.2,0.9,0.1,WATCH,NONE,Watch state: operating within verified SOC limits
+2011-09-16 15:15:00,BESS_COMMUNITY_01,25.0,25.0,25.0,25.0,0.5,0.2,0.9,0.1,WATCH,NONE,Watch state: operating within verified SOC limits
+2011-09-16 15:30:00,BESS_COMMUNITY_01,25.0,25.0,25.0,25.0,0.5,0.2,0.9,0.1,WATCH,NONE,Watch state: operating within verified SOC limits
+2011-09-16 15:45:00,BESS_COMMUNITY_01,25.0,25.0,25.0,25.0,0.5,0.2,0.9,0.1,WATCH,NONE,Watch state: operating within verified SOC limits
+2011-09-16 16:00:00,BESS_COMMUNITY_01,25.0,25.0,25.0,25.0,0.5,0.2,0.9,0.1,WATCH,NONE,Watch state: operating within verified SOC limits
+2011-09-16 16:15:00,BESS_COMMUNITY_01,25.0,25.0,25.0,25.0,0.5,0.2,0.9,0.1,WATCH,NONE,Watch state: operating within verified SOC limits
+2011-09-16 16:30:00,BESS_COMMUNITY_01,25.0,25.0,25.0,25.0,0.5,0.2,0.9,0.1,WATCH,NONE,Watch state: operating within verified SOC limits
+2011-09-16 16:45:00,BESS_COMMUNITY_01,25.0,25.0,25.0,25.0,0.4962,0.2,0.9,0.1,WATCH,NONE,Watch state: operating within verified SOC limits
+2011-09-16 17:00:00,BESS_COMMUNITY_01,25.0,0.0,25.0,25.0,0.4878,0.2,0.9,0.1,CONSTRAINED,VOLTAGE_DROP,Battery charging restricted and discharge permitted to relieve VOLTAGE_DROP
+2011-09-16 17:15:00,BESS_COMMUNITY_01,25.0,0.0,25.0,25.0,0.4411,0.2,0.9,0.1,CONSTRAINED,VOLTAGE_DROP,Battery charging restricted and discharge permitted to relieve VOLTAGE_DROP

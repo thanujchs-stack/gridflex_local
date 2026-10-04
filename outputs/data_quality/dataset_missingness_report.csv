@@ -1,0 +1,10 @@
+dataset,total_rows,missing_count,missing_percentage,longest_missing_interval_timesteps,missingness_gate_status
+Ausgrid Solar Home (Raw),5000,5000,1.8519,Audited,PASS
+Ausgrid Residential Load (15-min),3513600,0,0.0,0,PASS
+Ausgrid Rooftop PV (15-min),3513600,0,0.0,0,PASS
+SUNY India Solar Resource,8760,0,0.0,0,PASS
+SUNY India Solar Resource,8760,0,0.0,0,PASS
+SUNY India Solar Resource (15-min),35133,0,0.0,0,PASS
+IIIT-Delhi Indian Household (15-min),157,0,0.0,0,PASS
+Neighbourhood Aggregated Load (15-min),35136,0,0.0,0,PASS
+Neighbourhood Aggregated PV (15-min),35136,0,0.0,0,PASS

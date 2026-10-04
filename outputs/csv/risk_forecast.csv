@@ -1,0 +1,17 @@
+timestamp,horizon_minutes,operational_state,risk_score,primary_constraint,trafo_loading_pct,max_line_loading_pct,min_vm_pu,max_vm_pu,net_load_kw,uncertainty_width_kw,available_flex_kw,mitigable_by_flexibility,explanation
+2011-09-16 13:30:00,15,NORMAL,21.7,NONE,16.8,30.2,0.9975,1.0274,-39.34,34.2,127.3,True,Feeder operates well within physical bounds
+2011-09-16 13:45:00,30,NORMAL,23.7,NONE,17.0,30.7,0.9976,1.0278,-40.09,41.39,127.72,True,Feeder operates well within physical bounds
+2011-09-16 14:00:00,45,NORMAL,22.9,NONE,13.7,25.3,0.997,1.0216,-30.19,46.19,122.28,True,Feeder operates well within physical bounds
+2011-09-16 14:15:00,60,WATCH,25.0,HIGH_UNCERTAINTY,12.6,23.2,0.9969,1.0194,-26.8,50.86,119.4,True,High forecast spread (50.9 kW)
+2011-09-16 14:30:00,75,WATCH,25.0,HIGH_UNCERTAINTY,9.3,17.1,0.9965,1.0123,-15.81,55.66,108.58,True,High forecast spread (55.7 kW)
+2011-09-16 14:45:00,90,WATCH,25.0,HIGH_UNCERTAINTY,9.6,17.7,0.9964,1.0128,-16.5,57.49,109.94,True,High forecast spread (57.5 kW)
+2011-09-16 15:00:00,105,WATCH,25.0,HIGH_UNCERTAINTY,7.5,9.4,0.9955,1.0,4.81,60.65,95.1,True,High forecast spread (60.7 kW)
+2011-09-16 15:15:00,120,WATCH,25.0,HIGH_UNCERTAINTY,7.6,9.8,0.9954,1.0,4.1,65.24,96.7,True,High forecast spread (65.2 kW)
+2011-09-16 15:30:00,135,WATCH,25.0,HIGH_UNCERTAINTY,13.6,15.5,0.9841,1.0,26.78,69.78,82.99,True,High forecast spread (69.8 kW)
+2011-09-16 15:45:00,150,WATCH,25.0,HIGH_UNCERTAINTY,11.3,12.5,0.9883,1.0,20.44,72.06,85.88,True,High forecast spread (72.1 kW)
+2011-09-16 16:00:00,165,WATCH,32.1,HIGH_UNCERTAINTY,23.6,30.6,0.966,1.0,53.04,61.45,67.76,True,High forecast spread (61.5 kW)
+2011-09-16 16:15:00,180,WATCH,34.0,HIGH_UNCERTAINTY,25.6,33.6,0.9625,1.0,57.99,59.15,65.83,True,High forecast spread (59.2 kW)
+2011-09-16 16:30:00,195,WATCH,39.7,VOLTAGE_DROP,30.9,41.1,0.9541,1.0,70.16,56.43,63.13,True,Voltage margin declining (min 0.954 p.u.)
+2011-09-16 16:45:00,210,WATCH,40.1,VOLTAGE_DROP,31.6,42.2,0.953,1.0,71.77,53.53,62.18,True,Voltage margin declining (min 0.953 p.u.)
+2011-09-16 17:00:00,225,WATCH,48.2,VOLTAGE_DROP,37.5,50.2,0.9439,1.0,84.85,58.3,62.18,True,Voltage margin declining (min 0.944 p.u.)
+2011-09-16 17:15:00,240,WATCH,49.8,VOLTAGE_DROP,39.0,52.2,0.9418,1.0,87.98,56.28,62.18,True,Voltage margin declining (min 0.942 p.u.)
